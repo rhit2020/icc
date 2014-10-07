@@ -16,10 +16,14 @@ public class Main {
 	private static List<String> itemList;
 	private static List<String> userList;
 	private static Map<String,Map<String,Integer>> ratingMap;
+	private static Map<String,Double> pretestMap; //userid, pretest
+	private static Map<String,String> difficultyMap; //content_name,difficulty
+
 	private static Map<String,List<String>> numMap;
 	private static File file;
 	private static FileWriter fw;
 	private static BufferedWriter bw;	
+	
 	public static void main(String[] args)
 	{
 		//initiate list and map 
@@ -39,7 +43,9 @@ public class Main {
 //			if (numMap.get(item).size() == 1)
 //				itemList.remove(item);
 //		}
-		//write icc format data		
+		//write icc format data	
+		readPretest("./resources/pretest_Q5_removed.csv");//user,pretest
+		readDifficulty("./resources/difficulty.csv"); //content,difficulty
 		writeRatings();
 		closeWriter();
 		file = new File("./resources/num.txt");
@@ -48,6 +54,83 @@ public class Main {
 		closeWriter();
 
 	}
+	
+	private static void readPretest(String path) {
+		pretestMap = new HashMap<String,Double>();
+		BufferedReader br = null;
+		String line = "";
+		String cvsSplitBy = ",";
+		boolean isHeader = true;
+		try {
+			br = new BufferedReader(new FileReader(path));
+			String[] clmn;
+			String user;
+			double pretest;
+			while ((line = br.readLine()) != null) {
+				if (isHeader)
+				{
+					isHeader = false;
+					continue;
+				}
+				clmn = line.split(cvsSplitBy);
+				user = clmn[0];
+				pretest = Double.parseDouble(clmn[1]);				
+				pretestMap.put(user,pretest);
+			}	 
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			if (br != null) {
+				try {
+					br.close();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		}		
+		System.out.println("pretestMap:"+pretestMap.size());						
+	}
+	
+	private static void readDifficulty(String path) {
+		difficultyMap = new HashMap<String,String>();
+		BufferedReader br = null;
+		String line = "";
+		String cvsSplitBy = ",";
+		boolean isHeader = true;
+		try {
+			br = new BufferedReader(new FileReader(path));
+			String[] clmn;
+			String content;
+			String difficulty;
+			while ((line = br.readLine()) != null) {
+				if (isHeader)
+				{
+					isHeader = false;
+					continue;
+				}
+				clmn = line.split(cvsSplitBy);
+				content = clmn[0];
+				difficulty = clmn[1];			
+				difficultyMap.put(content,difficulty);
+			}	 
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			if (br != null) {
+				try {
+					br.close();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		}		
+		System.out.println("difficultyMap:"+difficultyMap.size());			
+	}
+	
 	private static void createFile() {
 		try {
 			if (!file.exists())
@@ -87,6 +170,7 @@ public class Main {
 	
 		
 	}
+	
 	private static void writeRatings() {
 		try {
 //			//first column is empty
@@ -109,13 +193,14 @@ public class Main {
 //			    bw.flush();
 //			}
 			//write ratings
+			String[] pair;
 			for (String item : itemList)
 			{				
+				pair = item.split("#");
 				for (int u = 0; u < userList.size(); u++)
 				{
-					bw.write((ratingMap.get(userList.get(u)).get(item)==null?"NA":""+ratingMap.get(userList.get(u)).get(item)));
-					if ( u < userList.size() - 1)
-						bw.write(",");
+					bw.write(item+","+userList.get(u)+","+(ratingMap.get(userList.get(u)).get(item)==null?"NA":""+ratingMap.get(userList.get(u)).get(item))+","+difficultyMap.get(pair[0])+","+pretestMap.get(userList.get(u)));
+					bw.newLine();
 				}
 				bw.newLine();
 			    bw.flush();
@@ -125,6 +210,7 @@ public class Main {
 		}
 		
 	}
+	
 	private static void readRatingMap() {
 		BufferedReader br = null;
 		String line = "";
