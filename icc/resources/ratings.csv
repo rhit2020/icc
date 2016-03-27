@@ -1397,9 +1397,6 @@ jif_else5#nested_loops_v2,us13B14,2
 jincrement#increment_v2,us13B14,2
 jincrement#JavaTutorial_4_1_5,us13B14,1
 jincrement#JavaTutorial_4_2_8,us13B14,2
-jInheritance1#constant_v2,us13B14,3
-jInheritance1#inheritance_casting_1,us13B14,0
-jInheritance1#inheritance_constructors_1,us13B14,2
 joperator1#create_2d_array_v2,us13B14,1
 joperator1#Decision_If_v2,us13B14,3
 joperator1#ifelse2_v2,us13B14,3

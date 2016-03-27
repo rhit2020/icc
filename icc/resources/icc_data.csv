@@ -40,7 +40,6 @@ jboolean_operators1#boolean_expression_v2,us13C12,NA,easy,7.0
 jboolean_operators1#boolean_expression_v2,us13C13,1,easy,3.0
 jboolean_operators1#boolean_expression_v2,us13C14,0,easy,0.0
 jboolean_operators1#boolean_expression_v2,us13C15,2,easy,0.0
-
 jboolean_operators1#conditional_operators_v2,us13A01,3,easy,3.0
 jboolean_operators1#conditional_operators_v2,us13A02,2,easy,3.0
 jboolean_operators1#conditional_operators_v2,us13A03,3,easy,7.0
@@ -83,7 +82,6 @@ jboolean_operators1#conditional_operators_v2,us13C12,NA,easy,7.0
 jboolean_operators1#conditional_operators_v2,us13C13,2,easy,3.0
 jboolean_operators1#conditional_operators_v2,us13C14,3,easy,0.0
 jboolean_operators1#conditional_operators_v2,us13C15,2,easy,0.0
-
 jboolean_operators1#JavaTutorial_4_2_2,us13A01,3,easy,3.0
 jboolean_operators1#JavaTutorial_4_2_2,us13A02,1,easy,3.0
 jboolean_operators1#JavaTutorial_4_2_2,us13A03,3,easy,7.0
@@ -126,7 +124,6 @@ jboolean_operators1#JavaTutorial_4_2_2,us13C12,NA,easy,7.0
 jboolean_operators1#JavaTutorial_4_2_2,us13C13,2,easy,3.0
 jboolean_operators1#JavaTutorial_4_2_2,us13C14,2,easy,0.0
 jboolean_operators1#JavaTutorial_4_2_2,us13C15,2,easy,0.0
-
 jboolean_operators1#JavaTutorial_4_2_8,us13A01,2,easy,3.0
 jboolean_operators1#JavaTutorial_4_2_8,us13A02,1,easy,3.0
 jboolean_operators1#JavaTutorial_4_2_8,us13A03,2,easy,7.0
@@ -169,7 +166,6 @@ jboolean_operators1#JavaTutorial_4_2_8,us13C12,NA,easy,7.0
 jboolean_operators1#JavaTutorial_4_2_8,us13C13,3,easy,3.0
 jboolean_operators1#JavaTutorial_4_2_8,us13C14,1,easy,0.0
 jboolean_operators1#JavaTutorial_4_2_8,us13C15,1,easy,0.0
-
 jboolean_var#boolean_declaration_v2,us13A01,2,easy,3.0
 jboolean_var#boolean_declaration_v2,us13A02,1,easy,3.0
 jboolean_var#boolean_declaration_v2,us13A03,3,easy,7.0
@@ -212,7 +208,6 @@ jboolean_var#boolean_declaration_v2,us13C12,NA,easy,7.0
 jboolean_var#boolean_declaration_v2,us13C13,3,easy,3.0
 jboolean_var#boolean_declaration_v2,us13C14,3,easy,0.0
 jboolean_var#boolean_declaration_v2,us13C15,3,easy,0.0
-
 jboolean_var#boolean_operators_v2,us13A01,2,easy,3.0
 jboolean_var#boolean_operators_v2,us13A02,2,easy,3.0
 jboolean_var#boolean_operators_v2,us13A03,3,easy,7.0
@@ -255,7 +250,6 @@ jboolean_var#boolean_operators_v2,us13C12,NA,easy,7.0
 jboolean_var#boolean_operators_v2,us13C13,2,easy,3.0
 jboolean_var#boolean_operators_v2,us13C14,1,easy,0.0
 jboolean_var#boolean_operators_v2,us13C15,2,easy,0.0
-
 jboolean_var#increment_v2,us13A01,0,easy,3.0
 jboolean_var#increment_v2,us13A02,NA,easy,3.0
 jboolean_var#increment_v2,us13A03,1,easy,7.0
@@ -298,7 +292,6 @@ jboolean_var#increment_v2,us13C12,NA,easy,7.0
 jboolean_var#increment_v2,us13C13,NA,easy,3.0
 jboolean_var#increment_v2,us13C14,NA,easy,0.0
 jboolean_var#increment_v2,us13C15,NA,easy,0.0
-
 jdouble1#JavaTutorial_4_1_5,us13A01,1,easy,3.0
 jdouble1#JavaTutorial_4_1_5,us13A02,NA,easy,3.0
 jdouble1#JavaTutorial_4_1_5,us13A03,2,easy,7.0
@@ -341,7 +334,6 @@ jdouble1#JavaTutorial_4_1_5,us13C12,NA,easy,7.0
 jdouble1#JavaTutorial_4_1_5,us13C13,NA,easy,3.0
 jdouble1#JavaTutorial_4_1_5,us13C14,NA,easy,0.0
 jdouble1#JavaTutorial_4_1_5,us13C15,NA,easy,0.0
-
 jdouble1#TypeCasting_v2,us13A01,3,easy,3.0
 jdouble1#TypeCasting_v2,us13A02,NA,easy,3.0
 jdouble1#TypeCasting_v2,us13A03,3,easy,7.0
@@ -384,7 +376,6 @@ jdouble1#TypeCasting_v2,us13C12,1,easy,7.0
 jdouble1#TypeCasting_v2,us13C13,2,easy,3.0
 jdouble1#TypeCasting_v2,us13C14,3,easy,0.0
 jdouble1#TypeCasting_v2,us13C15,1,easy,0.0
-
 jdouble1#variables2_v2,us13A01,2,easy,3.0
 jdouble1#variables2_v2,us13A02,NA,easy,3.0
 jdouble1#variables2_v2,us13A03,2,easy,7.0
@@ -427,7 +418,6 @@ jdouble1#variables2_v2,us13C12,2,easy,7.0
 jdouble1#variables2_v2,us13C13,2,easy,3.0
 jdouble1#variables2_v2,us13C14,2,easy,0.0
 jdouble1#variables2_v2,us13C15,3,easy,0.0
-
 jfor1#JavaTutorial_4_2_2,us13A01,0,easy,3.0
 jfor1#JavaTutorial_4_2_2,us13A02,1,easy,3.0
 jfor1#JavaTutorial_4_2_2,us13A03,2,easy,7.0
@@ -470,7 +460,6 @@ jfor1#JavaTutorial_4_2_2,us13C12,NA,easy,7.0
 jfor1#JavaTutorial_4_2_2,us13C13,NA,easy,3.0
 jfor1#JavaTutorial_4_2_2,us13C14,NA,easy,0.0
 jfor1#JavaTutorial_4_2_2,us13C15,NA,easy,0.0
-
 jfor1#JavaTutorial_4_6_6,us13A01,1,easy,3.0
 jfor1#JavaTutorial_4_6_6,us13A02,2,easy,3.0
 jfor1#JavaTutorial_4_6_6,us13A03,3,easy,7.0
@@ -513,7 +502,6 @@ jfor1#JavaTutorial_4_6_6,us13C12,1,easy,7.0
 jfor1#JavaTutorial_4_6_6,us13C13,2,easy,3.0
 jfor1#JavaTutorial_4_6_6,us13C14,3,easy,0.0
 jfor1#JavaTutorial_4_6_6,us13C15,2,easy,0.0
-
 jfor1#JavaTutorial_4_6_7,us13A01,1,easy,3.0
 jfor1#JavaTutorial_4_6_7,us13A02,1,easy,3.0
 jfor1#JavaTutorial_4_6_7,us13A03,3,easy,7.0
@@ -556,7 +544,6 @@ jfor1#JavaTutorial_4_6_7,us13C12,2,easy,7.0
 jfor1#JavaTutorial_4_6_7,us13C13,1,easy,3.0
 jfor1#JavaTutorial_4_6_7,us13C14,0,easy,0.0
 jfor1#JavaTutorial_4_6_7,us13C15,2,easy,0.0
-
 jfor1#JavaTutorial_4_6_9,us13A01,1,easy,3.0
 jfor1#JavaTutorial_4_6_9,us13A02,1,easy,3.0
 jfor1#JavaTutorial_4_6_9,us13A03,3,easy,7.0
@@ -599,7 +586,6 @@ jfor1#JavaTutorial_4_6_9,us13C12,2,easy,7.0
 jfor1#JavaTutorial_4_6_9,us13C13,2,easy,3.0
 jfor1#JavaTutorial_4_6_9,us13C14,3,easy,0.0
 jfor1#JavaTutorial_4_6_9,us13C15,2,easy,0.0
-
 jfor1#nested_loops2_v2,us13A01,3,easy,3.0
 jfor1#nested_loops2_v2,us13A02,3,easy,3.0
 jfor1#nested_loops2_v2,us13A03,3,easy,7.0
@@ -642,7 +628,6 @@ jfor1#nested_loops2_v2,us13C12,NA,easy,7.0
 jfor1#nested_loops2_v2,us13C13,2,easy,3.0
 jfor1#nested_loops2_v2,us13C14,NA,easy,0.0
 jfor1#nested_loops2_v2,us13C15,NA,easy,0.0
-
 jfor2#boolean_expression_v2,us13A01,1,easy,3.0
 jfor2#boolean_expression_v2,us13A02,1,easy,3.0
 jfor2#boolean_expression_v2,us13A03,2,easy,7.0
@@ -685,7 +670,6 @@ jfor2#boolean_expression_v2,us13C12,NA,easy,7.0
 jfor2#boolean_expression_v2,us13C13,NA,easy,3.0
 jfor2#boolean_expression_v2,us13C14,NA,easy,0.0
 jfor2#boolean_expression_v2,us13C15,NA,easy,0.0
-
 jfor2#for1_v2,us13A01,2,easy,3.0
 jfor2#for1_v2,us13A02,2,easy,3.0
 jfor2#for1_v2,us13A03,3,easy,7.0
@@ -728,7 +712,6 @@ jfor2#for1_v2,us13C12,2,easy,7.0
 jfor2#for1_v2,us13C13,3,easy,3.0
 jfor2#for1_v2,us13C14,3,easy,0.0
 jfor2#for1_v2,us13C15,2,easy,0.0
-
 jfor2#JavaTutorial_4_6_7,us13A01,2,easy,3.0
 jfor2#JavaTutorial_4_6_7,us13A02,1,easy,3.0
 jfor2#JavaTutorial_4_6_7,us13A03,3,easy,7.0
@@ -771,7 +754,6 @@ jfor2#JavaTutorial_4_6_7,us13C12,1,easy,7.0
 jfor2#JavaTutorial_4_6_7,us13C13,2,easy,3.0
 jfor2#JavaTutorial_4_6_7,us13C14,1,easy,0.0
 jfor2#JavaTutorial_4_6_7,us13C15,2,easy,0.0
-
 jfor2#nested_loops2_v2,us13A01,2,easy,3.0
 jfor2#nested_loops2_v2,us13A02,NA,easy,3.0
 jfor2#nested_loops2_v2,us13A03,1,easy,7.0
@@ -814,7 +796,6 @@ jfor2#nested_loops2_v2,us13C12,NA,easy,7.0
 jfor2#nested_loops2_v2,us13C13,NA,easy,3.0
 jfor2#nested_loops2_v2,us13C14,NA,easy,0.0
 jfor2#nested_loops2_v2,us13C15,NA,easy,0.0
-
 jfor2#relational_operators_v2,us13A01,1,easy,3.0
 jfor2#relational_operators_v2,us13A02,1,easy,3.0
 jfor2#relational_operators_v2,us13A03,2,easy,7.0
@@ -857,7 +838,6 @@ jfor2#relational_operators_v2,us13C12,1,easy,7.0
 jfor2#relational_operators_v2,us13C13,1,easy,3.0
 jfor2#relational_operators_v2,us13C14,1,easy,0.0
 jfor2#relational_operators_v2,us13C15,2,easy,0.0
-
 jif_else1#boolean_expression_v2,us13A01,0,easy,3.0
 jif_else1#boolean_expression_v2,us13A02,1,easy,3.0
 jif_else1#boolean_expression_v2,us13A03,2,easy,7.0
@@ -900,7 +880,6 @@ jif_else1#boolean_expression_v2,us13C12,NA,easy,7.0
 jif_else1#boolean_expression_v2,us13C13,NA,easy,3.0
 jif_else1#boolean_expression_v2,us13C14,2,easy,0.0
 jif_else1#boolean_expression_v2,us13C15,2,easy,0.0
-
 jif_else1#Decision_If_v2,us13A01,2,easy,3.0
 jif_else1#Decision_If_v2,us13A02,2,easy,3.0
 jif_else1#Decision_If_v2,us13A03,3,easy,7.0
@@ -943,7 +922,6 @@ jif_else1#Decision_If_v2,us13C12,NA,easy,7.0
 jif_else1#Decision_If_v2,us13C13,3,easy,3.0
 jif_else1#Decision_If_v2,us13C14,3,easy,0.0
 jif_else1#Decision_If_v2,us13C15,2,easy,0.0
-
 jif_else1#JavaTutorial_4_2_2,us13A01,2,easy,3.0
 jif_else1#JavaTutorial_4_2_2,us13A02,2,easy,3.0
 jif_else1#JavaTutorial_4_2_2,us13A03,2,easy,7.0
@@ -986,7 +964,6 @@ jif_else1#JavaTutorial_4_2_2,us13C12,NA,easy,7.0
 jif_else1#JavaTutorial_4_2_2,us13C13,2,easy,3.0
 jif_else1#JavaTutorial_4_2_2,us13C14,NA,easy,0.0
 jif_else1#JavaTutorial_4_2_2,us13C15,1,easy,0.0
-
 jif_else1#OperatorExample_v2,us13A01,2,easy,3.0
 jif_else1#OperatorExample_v2,us13A02,2,easy,3.0
 jif_else1#OperatorExample_v2,us13A03,3,easy,7.0
@@ -1029,7 +1006,6 @@ jif_else1#OperatorExample_v2,us13C12,NA,easy,7.0
 jif_else1#OperatorExample_v2,us13C13,2,easy,3.0
 jif_else1#OperatorExample_v2,us13C14,3,easy,0.0
 jif_else1#OperatorExample_v2,us13C15,2,easy,0.0
-
 jif_else5#boolean_expression_v2,us13A01,0,medium,3.0
 jif_else5#boolean_expression_v2,us13A02,1,medium,3.0
 jif_else5#boolean_expression_v2,us13A03,2,medium,7.0
@@ -1072,7 +1048,6 @@ jif_else5#boolean_expression_v2,us13C12,NA,medium,7.0
 jif_else5#boolean_expression_v2,us13C13,0,medium,3.0
 jif_else5#boolean_expression_v2,us13C14,1,medium,0.0
 jif_else5#boolean_expression_v2,us13C15,2,medium,0.0
-
 jif_else5#ifelse2_v2,us13A01,2,medium,3.0
 jif_else5#ifelse2_v2,us13A02,2,medium,3.0
 jif_else5#ifelse2_v2,us13A03,3,medium,7.0
@@ -1115,7 +1090,6 @@ jif_else5#ifelse2_v2,us13C12,NA,medium,7.0
 jif_else5#ifelse2_v2,us13C13,3,medium,3.0
 jif_else5#ifelse2_v2,us13C14,2,medium,0.0
 jif_else5#ifelse2_v2,us13C15,2,medium,0.0
-
 jif_else5#JavaTutorial_4_2_2,us13A01,2,medium,3.0
 jif_else5#JavaTutorial_4_2_2,us13A02,1,medium,3.0
 jif_else5#JavaTutorial_4_2_2,us13A03,2,medium,7.0
@@ -1158,7 +1132,6 @@ jif_else5#JavaTutorial_4_2_2,us13C12,NA,medium,7.0
 jif_else5#JavaTutorial_4_2_2,us13C13,1,medium,3.0
 jif_else5#JavaTutorial_4_2_2,us13C14,1,medium,0.0
 jif_else5#JavaTutorial_4_2_2,us13C15,2,medium,0.0
-
 jif_else5#nested_loops_v2,us13A01,2,medium,3.0
 jif_else5#nested_loops_v2,us13A02,1,medium,3.0
 jif_else5#nested_loops_v2,us13A03,3,medium,7.0
@@ -1201,7 +1174,6 @@ jif_else5#nested_loops_v2,us13C12,NA,medium,7.0
 jif_else5#nested_loops_v2,us13C13,1,medium,3.0
 jif_else5#nested_loops_v2,us13C14,2,medium,0.0
 jif_else5#nested_loops_v2,us13C15,3,medium,0.0
-
 jincrement#increment_v2,us13A01,3,easy,3.0
 jincrement#increment_v2,us13A02,NA,easy,3.0
 jincrement#increment_v2,us13A03,3,easy,7.0
@@ -1244,7 +1216,6 @@ jincrement#increment_v2,us13C12,3,easy,7.0
 jincrement#increment_v2,us13C13,3,easy,3.0
 jincrement#increment_v2,us13C14,3,easy,0.0
 jincrement#increment_v2,us13C15,3,easy,0.0
-
 jincrement#JavaTutorial_4_1_5,us13A01,0,easy,3.0
 jincrement#JavaTutorial_4_1_5,us13A02,NA,easy,3.0
 jincrement#JavaTutorial_4_1_5,us13A03,2,easy,7.0
@@ -1287,7 +1258,6 @@ jincrement#JavaTutorial_4_1_5,us13C12,NA,easy,7.0
 jincrement#JavaTutorial_4_1_5,us13C13,1,easy,3.0
 jincrement#JavaTutorial_4_1_5,us13C14,1,easy,0.0
 jincrement#JavaTutorial_4_1_5,us13C15,NA,easy,0.0
-
 jincrement#JavaTutorial_4_2_8,us13A01,0,easy,3.0
 jincrement#JavaTutorial_4_2_8,us13A02,NA,easy,3.0
 jincrement#JavaTutorial_4_2_8,us13A03,2,easy,7.0
@@ -1330,7 +1300,6 @@ jincrement#JavaTutorial_4_2_8,us13C12,2,easy,7.0
 jincrement#JavaTutorial_4_2_8,us13C13,2,easy,3.0
 jincrement#JavaTutorial_4_2_8,us13C14,2,easy,0.0
 jincrement#JavaTutorial_4_2_8,us13C15,3,easy,0.0
-
 jincrement#JavaTutorial_4_2_9,us13A01,0,easy,3.0
 jincrement#JavaTutorial_4_2_9,us13A02,NA,easy,3.0
 jincrement#JavaTutorial_4_2_9,us13A03,2,easy,7.0
@@ -1373,7 +1342,6 @@ jincrement#JavaTutorial_4_2_9,us13C12,NA,easy,7.0
 jincrement#JavaTutorial_4_2_9,us13C13,2,easy,3.0
 jincrement#JavaTutorial_4_2_9,us13C14,1,easy,0.0
 jincrement#JavaTutorial_4_2_9,us13C15,1,easy,0.0
-
 jincrement#variables1_v2,us13A01,1,easy,3.0
 jincrement#variables1_v2,us13A02,NA,easy,3.0
 jincrement#variables1_v2,us13A03,NA,easy,7.0
@@ -1416,7 +1384,6 @@ jincrement#variables1_v2,us13C12,NA,easy,7.0
 jincrement#variables1_v2,us13C13,NA,easy,3.0
 jincrement#variables1_v2,us13C14,NA,easy,0.0
 jincrement#variables1_v2,us13C15,NA,easy,0.0
-
 joperator1#Decision_If_v2,us13A01,2,easy,3.0
 joperator1#Decision_If_v2,us13A02,NA,easy,3.0
 joperator1#Decision_If_v2,us13A03,3,easy,7.0
@@ -1459,7 +1426,6 @@ joperator1#Decision_If_v2,us13C12,2,easy,7.0
 joperator1#Decision_If_v2,us13C13,2,easy,3.0
 joperator1#Decision_If_v2,us13C14,1,easy,0.0
 joperator1#Decision_If_v2,us13C15,3,easy,0.0
-
 joperator1#ifelse2_v2,us13A01,2,easy,3.0
 joperator1#ifelse2_v2,us13A02,NA,easy,3.0
 joperator1#ifelse2_v2,us13A03,3,easy,7.0
@@ -1502,7 +1468,6 @@ joperator1#ifelse2_v2,us13C12,2,easy,7.0
 joperator1#ifelse2_v2,us13C13,1,easy,3.0
 joperator1#ifelse2_v2,us13C14,1,easy,0.0
 joperator1#ifelse2_v2,us13C15,3,easy,0.0
-
 joperator1#JavaTutorial_4_1_5,us13A01,0,easy,3.0
 joperator1#JavaTutorial_4_1_5,us13A02,NA,easy,3.0
 joperator1#JavaTutorial_4_1_5,us13A03,2,easy,7.0
@@ -1545,7 +1510,6 @@ joperator1#JavaTutorial_4_1_5,us13C12,1,easy,7.0
 joperator1#JavaTutorial_4_1_5,us13C13,1,easy,3.0
 joperator1#JavaTutorial_4_1_5,us13C14,0,easy,0.0
 joperator1#JavaTutorial_4_1_5,us13C15,3,easy,0.0
-
 joperator1#OperatorExample_v2,us13A01,2,easy,3.0
 joperator1#OperatorExample_v2,us13A02,NA,easy,3.0
 joperator1#OperatorExample_v2,us13A03,3,easy,7.0
@@ -1588,7 +1552,6 @@ joperator1#OperatorExample_v2,us13C12,3,easy,7.0
 joperator1#OperatorExample_v2,us13C13,3,easy,3.0
 joperator1#OperatorExample_v2,us13C14,3,easy,0.0
 joperator1#OperatorExample_v2,us13C15,3,easy,0.0
-
 jvariable1#JavaTutorial_4_1_5,us13A01,1,easy,3.0
 jvariable1#JavaTutorial_4_1_5,us13A02,NA,easy,3.0
 jvariable1#JavaTutorial_4_1_5,us13A03,3,easy,7.0
@@ -1631,7 +1594,6 @@ jvariable1#JavaTutorial_4_1_5,us13C12,1,easy,7.0
 jvariable1#JavaTutorial_4_1_5,us13C13,1,easy,3.0
 jvariable1#JavaTutorial_4_1_5,us13C14,0,easy,0.0
 jvariable1#JavaTutorial_4_1_5,us13C15,2,easy,0.0
-
 jvariable1#JavaTutorial_4_6_6,us13A01,2,easy,3.0
 jvariable1#JavaTutorial_4_6_6,us13A02,NA,easy,3.0
 jvariable1#JavaTutorial_4_6_6,us13A03,2,easy,7.0
@@ -1674,7 +1636,6 @@ jvariable1#JavaTutorial_4_6_6,us13C12,2,easy,7.0
 jvariable1#JavaTutorial_4_6_6,us13C13,0,easy,3.0
 jvariable1#JavaTutorial_4_6_6,us13C14,0,easy,0.0
 jvariable1#JavaTutorial_4_6_6,us13C15,3,easy,0.0
-
 jvariable1#JavaTutorial_4_6_9,us13A01,2,easy,3.0
 jvariable1#JavaTutorial_4_6_9,us13A02,NA,easy,3.0
 jvariable1#JavaTutorial_4_6_9,us13A03,3,easy,7.0
@@ -1717,7 +1678,6 @@ jvariable1#JavaTutorial_4_6_9,us13C12,3,easy,7.0
 jvariable1#JavaTutorial_4_6_9,us13C13,3,easy,3.0
 jvariable1#JavaTutorial_4_6_9,us13C14,2,easy,0.0
 jvariable1#JavaTutorial_4_6_9,us13C15,2,easy,0.0
-
 jvariable1#variables1_v2,us13A01,0,easy,3.0
 jvariable1#variables1_v2,us13A02,NA,easy,3.0
 jvariable1#variables1_v2,us13A03,2,easy,7.0
@@ -1760,7 +1720,6 @@ jvariable1#variables1_v2,us13C12,NA,easy,7.0
 jvariable1#variables1_v2,us13C13,NA,easy,3.0
 jvariable1#variables1_v2,us13C14,NA,easy,0.0
 jvariable1#variables1_v2,us13C15,NA,easy,0.0
-
 jwhile3#JavaTutorial_4_2_2,us13A01,1,medium,3.0
 jwhile3#JavaTutorial_4_2_2,us13A02,1,medium,3.0
 jwhile3#JavaTutorial_4_2_2,us13A03,1,medium,7.0
@@ -1803,7 +1762,6 @@ jwhile3#JavaTutorial_4_2_2,us13C12,1,medium,7.0
 jwhile3#JavaTutorial_4_2_2,us13C13,1,medium,3.0
 jwhile3#JavaTutorial_4_2_2,us13C14,0,medium,0.0
 jwhile3#JavaTutorial_4_2_2,us13C15,2,medium,0.0
-
 jwhile3#JavaTutorial_4_4_3,us13A01,1,medium,3.0
 jwhile3#JavaTutorial_4_4_3,us13A02,1,medium,3.0
 jwhile3#JavaTutorial_4_4_3,us13A03,1,medium,7.0
@@ -1846,7 +1804,6 @@ jwhile3#JavaTutorial_4_4_3,us13C12,1,medium,7.0
 jwhile3#JavaTutorial_4_4_3,us13C13,1,medium,3.0
 jwhile3#JavaTutorial_4_4_3,us13C14,0,medium,0.0
 jwhile3#JavaTutorial_4_4_3,us13C15,2,medium,0.0
-
 jwhile3#JavaTutorial_4_6_6,us13A01,1,medium,3.0
 jwhile3#JavaTutorial_4_6_6,us13A02,NA,medium,3.0
 jwhile3#JavaTutorial_4_6_6,us13A03,NA,medium,7.0
@@ -1889,7 +1846,6 @@ jwhile3#JavaTutorial_4_6_6,us13C12,NA,medium,7.0
 jwhile3#JavaTutorial_4_6_6,us13C13,NA,medium,3.0
 jwhile3#JavaTutorial_4_6_6,us13C14,NA,medium,0.0
 jwhile3#JavaTutorial_4_6_6,us13C15,NA,medium,0.0
-
 jwhile3#JavaTutorial_4_6_9,us13A01,2,medium,3.0
 jwhile3#JavaTutorial_4_6_9,us13A02,2,medium,3.0
 jwhile3#JavaTutorial_4_6_9,us13A03,2,medium,7.0
@@ -1932,7 +1888,6 @@ jwhile3#JavaTutorial_4_6_9,us13C12,1,medium,7.0
 jwhile3#JavaTutorial_4_6_9,us13C13,2,medium,3.0
 jwhile3#JavaTutorial_4_6_9,us13C14,3,medium,0.0
 jwhile3#JavaTutorial_4_6_9,us13C15,2,medium,0.0
-
 jwhile3#while_v2,us13A01,2,medium,3.0
 jwhile3#while_v2,us13A02,2,medium,3.0
 jwhile3#while_v2,us13A03,3,medium,7.0
@@ -1975,7 +1930,6 @@ jwhile3#while_v2,us13C12,3,medium,7.0
 jwhile3#while_v2,us13C13,3,medium,3.0
 jwhile3#while_v2,us13C14,3,medium,0.0
 jwhile3#while_v2,us13C15,1,medium,0.0
-
 jwhile4#Decision_If_v2,us13A01,2,medium,3.0
 jwhile4#Decision_If_v2,us13A02,1,medium,3.0
 jwhile4#Decision_If_v2,us13A03,2,medium,7.0
@@ -2018,7 +1972,6 @@ jwhile4#Decision_If_v2,us13C12,2,medium,7.0
 jwhile4#Decision_If_v2,us13C13,3,medium,3.0
 jwhile4#Decision_If_v2,us13C14,3,medium,0.0
 jwhile4#Decision_If_v2,us13C15,2,medium,0.0
-
 jwhile4#ifelse2_v2,us13A01,2,medium,3.0
 jwhile4#ifelse2_v2,us13A02,2,medium,3.0
 jwhile4#ifelse2_v2,us13A03,2,medium,7.0
@@ -2061,7 +2014,6 @@ jwhile4#ifelse2_v2,us13C12,2,medium,7.0
 jwhile4#ifelse2_v2,us13C13,3,medium,3.0
 jwhile4#ifelse2_v2,us13C14,3,medium,0.0
 jwhile4#ifelse2_v2,us13C15,2,medium,0.0
-
 jwhile4#JavaTutorial_4_2_2,us13A01,1,medium,3.0
 jwhile4#JavaTutorial_4_2_2,us13A02,1,medium,3.0
 jwhile4#JavaTutorial_4_2_2,us13A03,3,medium,7.0
@@ -2104,7 +2056,6 @@ jwhile4#JavaTutorial_4_2_2,us13C12,NA,medium,7.0
 jwhile4#JavaTutorial_4_2_2,us13C13,1,medium,3.0
 jwhile4#JavaTutorial_4_2_2,us13C14,0,medium,0.0
 jwhile4#JavaTutorial_4_2_2,us13C15,2,medium,0.0
-
 jwhile4#JavaTutorial_4_4_3,us13A01,1,medium,3.0
 jwhile4#JavaTutorial_4_4_3,us13A02,NA,medium,3.0
 jwhile4#JavaTutorial_4_4_3,us13A03,NA,medium,7.0
@@ -2147,7 +2098,6 @@ jwhile4#JavaTutorial_4_4_3,us13C12,1,medium,7.0
 jwhile4#JavaTutorial_4_4_3,us13C13,1,medium,3.0
 jwhile4#JavaTutorial_4_4_3,us13C14,0,medium,0.0
 jwhile4#JavaTutorial_4_4_3,us13C15,1,medium,0.0
-
 jwhile4#while_v2,us13A01,2,medium,3.0
 jwhile4#while_v2,us13A02,2,medium,3.0
 jwhile4#while_v2,us13A03,3,medium,7.0
@@ -2190,7 +2140,6 @@ jwhile4#while_v2,us13C12,2,medium,7.0
 jwhile4#while_v2,us13C13,2,medium,3.0
 jwhile4#while_v2,us13C14,3,medium,0.0
 jwhile4#while_v2,us13C15,2,medium,0.0
-
 j2d_arrays1#array_declaration_v2,us13A01,NA,medium,3.0
 j2d_arrays1#array_declaration_v2,us13A02,1,medium,3.0
 j2d_arrays1#array_declaration_v2,us13A03,NA,medium,7.0
@@ -2233,7 +2182,6 @@ j2d_arrays1#array_declaration_v2,us13C12,NA,medium,7.0
 j2d_arrays1#array_declaration_v2,us13C13,NA,medium,3.0
 j2d_arrays1#array_declaration_v2,us13C14,2,medium,0.0
 j2d_arrays1#array_declaration_v2,us13C15,NA,medium,0.0
-
 j2d_arrays1#create_2d_array_v2,us13A01,NA,medium,3.0
 j2d_arrays1#create_2d_array_v2,us13A02,2,medium,3.0
 j2d_arrays1#create_2d_array_v2,us13A03,NA,medium,7.0
@@ -2276,7 +2224,6 @@ j2d_arrays1#create_2d_array_v2,us13C12,NA,medium,7.0
 j2d_arrays1#create_2d_array_v2,us13C13,NA,medium,3.0
 j2d_arrays1#create_2d_array_v2,us13C14,2,medium,0.0
 j2d_arrays1#create_2d_array_v2,us13C15,NA,medium,0.0
-
 j2d_arrays1#JavaTutorial_4_1_5,us13A01,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_1_5,us13A02,1,medium,3.0
 j2d_arrays1#JavaTutorial_4_1_5,us13A03,NA,medium,7.0
@@ -2319,7 +2266,6 @@ j2d_arrays1#JavaTutorial_4_1_5,us13C12,NA,medium,7.0
 j2d_arrays1#JavaTutorial_4_1_5,us13C13,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_1_5,us13C14,NA,medium,0.0
 j2d_arrays1#JavaTutorial_4_1_5,us13C15,NA,medium,0.0
-
 j2d_arrays1#use_2darray_v2,us13A01,NA,medium,3.0
 j2d_arrays1#use_2darray_v2,us13A02,2,medium,3.0
 j2d_arrays1#use_2darray_v2,us13A03,NA,medium,7.0
@@ -2362,7 +2308,6 @@ j2d_arrays1#use_2darray_v2,us13C12,NA,medium,7.0
 j2d_arrays1#use_2darray_v2,us13C13,NA,medium,3.0
 j2d_arrays1#use_2darray_v2,us13C14,3,medium,0.0
 j2d_arrays1#use_2darray_v2,us13C15,NA,medium,0.0
-
 jarray1#array_declaration_v2,us13A01,NA,medium,3.0
 jarray1#array_declaration_v2,us13A02,1,medium,3.0
 jarray1#array_declaration_v2,us13A03,NA,medium,7.0
@@ -2405,7 +2350,6 @@ jarray1#array_declaration_v2,us13C12,NA,medium,7.0
 jarray1#array_declaration_v2,us13C13,NA,medium,3.0
 jarray1#array_declaration_v2,us13C14,3,medium,0.0
 jarray1#array_declaration_v2,us13C15,NA,medium,0.0
-
 jarray1#JavaTutorial_4_7_5,us13A01,NA,medium,3.0
 jarray1#JavaTutorial_4_7_5,us13A02,2,medium,3.0
 jarray1#JavaTutorial_4_7_5,us13A03,NA,medium,7.0
@@ -2448,7 +2392,6 @@ jarray1#JavaTutorial_4_7_5,us13C12,NA,medium,7.0
 jarray1#JavaTutorial_4_7_5,us13C13,NA,medium,3.0
 jarray1#JavaTutorial_4_7_5,us13C14,NA,medium,0.0
 jarray1#JavaTutorial_4_7_5,us13C15,NA,medium,0.0
-
 jarray1#JavaTutorial_4_7_8,us13A01,NA,medium,3.0
 jarray1#JavaTutorial_4_7_8,us13A02,1,medium,3.0
 jarray1#JavaTutorial_4_7_8,us13A03,NA,medium,7.0
@@ -2491,7 +2434,6 @@ jarray1#JavaTutorial_4_7_8,us13C12,NA,medium,7.0
 jarray1#JavaTutorial_4_7_8,us13C13,NA,medium,3.0
 jarray1#JavaTutorial_4_7_8,us13C14,NA,medium,0.0
 jarray1#JavaTutorial_4_7_8,us13C15,NA,medium,0.0
-
 jarray1#use_2darray_v2,us13A01,NA,medium,3.0
 jarray1#use_2darray_v2,us13A02,1,medium,3.0
 jarray1#use_2darray_v2,us13A03,NA,medium,7.0
@@ -2534,7 +2476,6 @@ jarray1#use_2darray_v2,us13C12,NA,medium,7.0
 jarray1#use_2darray_v2,us13C13,NA,medium,3.0
 jarray1#use_2darray_v2,us13C14,0,medium,0.0
 jarray1#use_2darray_v2,us13C15,NA,medium,0.0
-
 jarray1#using_array_v2,us13A01,NA,medium,3.0
 jarray1#using_array_v2,us13A02,1,medium,3.0
 jarray1#using_array_v2,us13A03,NA,medium,7.0
@@ -2577,7 +2518,6 @@ jarray1#using_array_v2,us13C12,NA,medium,7.0
 jarray1#using_array_v2,us13C13,NA,medium,3.0
 jarray1#using_array_v2,us13C14,3,medium,0.0
 jarray1#using_array_v2,us13C15,NA,medium,0.0
-
 jarray4#nested_loops2_v2,us13A01,NA,medium,3.0
 jarray4#nested_loops2_v2,us13A02,2,medium,3.0
 jarray4#nested_loops2_v2,us13A03,NA,medium,7.0
@@ -2620,7 +2560,6 @@ jarray4#nested_loops2_v2,us13C12,NA,medium,7.0
 jarray4#nested_loops2_v2,us13C13,NA,medium,3.0
 jarray4#nested_loops2_v2,us13C14,NA,medium,0.0
 jarray4#nested_loops2_v2,us13C15,NA,medium,0.0
-
 jarray4#nested_loops_v2,us13A01,NA,medium,3.0
 jarray4#nested_loops_v2,us13A02,1,medium,3.0
 jarray4#nested_loops_v2,us13A03,NA,medium,7.0
@@ -2663,7 +2602,6 @@ jarray4#nested_loops_v2,us13C12,NA,medium,7.0
 jarray4#nested_loops_v2,us13C13,NA,medium,3.0
 jarray4#nested_loops_v2,us13C14,NA,medium,0.0
 jarray4#nested_loops_v2,us13C15,NA,medium,0.0
-
 jarray4#use_array_v2,us13A01,NA,medium,3.0
 jarray4#use_array_v2,us13A02,2,medium,3.0
 jarray4#use_array_v2,us13A03,NA,medium,7.0
@@ -2706,7 +2644,6 @@ jarray4#use_array_v2,us13C12,NA,medium,7.0
 jarray4#use_array_v2,us13C13,NA,medium,3.0
 jarray4#use_array_v2,us13C14,3,medium,0.0
 jarray4#use_array_v2,us13C15,NA,medium,0.0
-
 jarray4#using_array_v2,us13A01,NA,medium,3.0
 jarray4#using_array_v2,us13A02,2,medium,3.0
 jarray4#using_array_v2,us13A03,NA,medium,7.0
@@ -2749,7 +2686,6 @@ jarray4#using_array_v2,us13C12,NA,medium,7.0
 jarray4#using_array_v2,us13C13,NA,medium,3.0
 jarray4#using_array_v2,us13C14,3,medium,0.0
 jarray4#using_array_v2,us13C15,NA,medium,0.0
-
 jboolean_var#boolean_expression_v2,us13A01,NA,easy,3.0
 jboolean_var#boolean_expression_v2,us13A02,2,easy,3.0
 jboolean_var#boolean_expression_v2,us13A03,NA,easy,7.0
@@ -2792,7 +2728,6 @@ jboolean_var#boolean_expression_v2,us13C12,NA,easy,7.0
 jboolean_var#boolean_expression_v2,us13C13,2,easy,3.0
 jboolean_var#boolean_expression_v2,us13C14,NA,easy,0.0
 jboolean_var#boolean_expression_v2,us13C15,3,easy,0.0
-
 jfor2#arithmetic_v2,us13A01,NA,easy,3.0
 jfor2#arithmetic_v2,us13A02,1,easy,3.0
 jfor2#arithmetic_v2,us13A03,NA,easy,7.0
@@ -2835,7 +2770,6 @@ jfor2#arithmetic_v2,us13C12,NA,easy,7.0
 jfor2#arithmetic_v2,us13C13,NA,easy,3.0
 jfor2#arithmetic_v2,us13C14,NA,easy,0.0
 jfor2#arithmetic_v2,us13C15,NA,easy,0.0
-
 jwhile4#OperatorExample_v2,us13A01,NA,medium,3.0
 jwhile4#OperatorExample_v2,us13A02,1,medium,3.0
 jwhile4#OperatorExample_v2,us13A03,2,medium,7.0
@@ -2878,7 +2812,6 @@ jwhile4#OperatorExample_v2,us13C12,2,medium,7.0
 jwhile4#OperatorExample_v2,us13C13,2,medium,3.0
 jwhile4#OperatorExample_v2,us13C14,2,medium,0.0
 jwhile4#OperatorExample_v2,us13C15,2,medium,0.0
-
 jincrement#OperatorExample_v2,us13A01,NA,easy,3.0
 jincrement#OperatorExample_v2,us13A02,NA,easy,3.0
 jincrement#OperatorExample_v2,us13A03,3,easy,7.0
@@ -2921,7 +2854,6 @@ jincrement#OperatorExample_v2,us13C12,0,easy,7.0
 jincrement#OperatorExample_v2,us13C13,1,easy,3.0
 jincrement#OperatorExample_v2,us13C14,0,easy,0.0
 jincrement#OperatorExample_v2,us13C15,2,easy,0.0
-
 j2d_arrays1#relational_operators_v2,us13A01,NA,medium,3.0
 j2d_arrays1#relational_operators_v2,us13A02,NA,medium,3.0
 j2d_arrays1#relational_operators_v2,us13A03,NA,medium,7.0
@@ -2964,7 +2896,6 @@ j2d_arrays1#relational_operators_v2,us13C12,NA,medium,7.0
 j2d_arrays1#relational_operators_v2,us13C13,NA,medium,3.0
 j2d_arrays1#relational_operators_v2,us13C14,NA,medium,0.0
 j2d_arrays1#relational_operators_v2,us13C15,NA,medium,0.0
-
 jarray1#JavaTutorial_4_2_2,us13A01,NA,medium,3.0
 jarray1#JavaTutorial_4_2_2,us13A02,NA,medium,3.0
 jarray1#JavaTutorial_4_2_2,us13A03,NA,medium,7.0
@@ -3007,7 +2938,6 @@ jarray1#JavaTutorial_4_2_2,us13C12,NA,medium,7.0
 jarray1#JavaTutorial_4_2_2,us13C13,NA,medium,3.0
 jarray1#JavaTutorial_4_2_2,us13C14,NA,medium,0.0
 jarray1#JavaTutorial_4_2_2,us13C15,NA,medium,0.0
-
 jarray1#JavaTutorial_4_6_9,us13A01,NA,medium,3.0
 jarray1#JavaTutorial_4_6_9,us13A02,NA,medium,3.0
 jarray1#JavaTutorial_4_6_9,us13A03,NA,medium,7.0
@@ -3050,7 +2980,6 @@ jarray1#JavaTutorial_4_6_9,us13C12,NA,medium,7.0
 jarray1#JavaTutorial_4_6_9,us13C13,NA,medium,3.0
 jarray1#JavaTutorial_4_6_9,us13C14,NA,medium,0.0
 jarray1#JavaTutorial_4_6_9,us13C15,NA,medium,0.0
-
 jarray1#JavaTutorial_4_7_6,us13A01,NA,medium,3.0
 jarray1#JavaTutorial_4_7_6,us13A02,NA,medium,3.0
 jarray1#JavaTutorial_4_7_6,us13A03,NA,medium,7.0
@@ -3093,7 +3022,6 @@ jarray1#JavaTutorial_4_7_6,us13C12,NA,medium,7.0
 jarray1#JavaTutorial_4_7_6,us13C13,NA,medium,3.0
 jarray1#JavaTutorial_4_7_6,us13C14,1,medium,0.0
 jarray1#JavaTutorial_4_7_6,us13C15,NA,medium,0.0
-
 jarray2#array_declaration_v2,us13A01,NA,medium,3.0
 jarray2#array_declaration_v2,us13A02,NA,medium,3.0
 jarray2#array_declaration_v2,us13A03,NA,medium,7.0
@@ -3136,7 +3064,6 @@ jarray2#array_declaration_v2,us13C12,NA,medium,7.0
 jarray2#array_declaration_v2,us13C13,NA,medium,3.0
 jarray2#array_declaration_v2,us13C14,3,medium,0.0
 jarray2#array_declaration_v2,us13C15,NA,medium,0.0
-
 jarray2#JavaTutorial_4_2_2,us13A01,NA,medium,3.0
 jarray2#JavaTutorial_4_2_2,us13A02,NA,medium,3.0
 jarray2#JavaTutorial_4_2_2,us13A03,NA,medium,7.0
@@ -3179,7 +3106,6 @@ jarray2#JavaTutorial_4_2_2,us13C12,NA,medium,7.0
 jarray2#JavaTutorial_4_2_2,us13C13,NA,medium,3.0
 jarray2#JavaTutorial_4_2_2,us13C14,NA,medium,0.0
 jarray2#JavaTutorial_4_2_2,us13C15,NA,medium,0.0
-
 jarray2#JavaTutorial_4_6_7,us13A01,NA,medium,3.0
 jarray2#JavaTutorial_4_6_7,us13A02,NA,medium,3.0
 jarray2#JavaTutorial_4_6_7,us13A03,NA,medium,7.0
@@ -3222,7 +3148,6 @@ jarray2#JavaTutorial_4_6_7,us13C12,NA,medium,7.0
 jarray2#JavaTutorial_4_6_7,us13C13,NA,medium,3.0
 jarray2#JavaTutorial_4_6_7,us13C14,NA,medium,0.0
 jarray2#JavaTutorial_4_6_7,us13C15,NA,medium,0.0
-
 jarray2#JavaTutorial_4_7_5,us13A01,NA,medium,3.0
 jarray2#JavaTutorial_4_7_5,us13A02,NA,medium,3.0
 jarray2#JavaTutorial_4_7_5,us13A03,NA,medium,7.0
@@ -3265,7 +3190,6 @@ jarray2#JavaTutorial_4_7_5,us13C12,NA,medium,7.0
 jarray2#JavaTutorial_4_7_5,us13C13,NA,medium,3.0
 jarray2#JavaTutorial_4_7_5,us13C14,3,medium,0.0
 jarray2#JavaTutorial_4_7_5,us13C15,NA,medium,0.0
-
 jarray2#use_2darray_v2,us13A01,NA,medium,3.0
 jarray2#use_2darray_v2,us13A02,NA,medium,3.0
 jarray2#use_2darray_v2,us13A03,NA,medium,7.0
@@ -3308,7 +3232,6 @@ jarray2#use_2darray_v2,us13C12,NA,medium,7.0
 jarray2#use_2darray_v2,us13C13,NA,medium,3.0
 jarray2#use_2darray_v2,us13C14,0,medium,0.0
 jarray2#use_2darray_v2,us13C15,NA,medium,0.0
-
 jarray2#use_array_v2,us13A01,NA,medium,3.0
 jarray2#use_array_v2,us13A02,NA,medium,3.0
 jarray2#use_array_v2,us13A03,NA,medium,7.0
@@ -3351,7 +3274,6 @@ jarray2#use_array_v2,us13C12,NA,medium,7.0
 jarray2#use_array_v2,us13C13,NA,medium,3.0
 jarray2#use_array_v2,us13C14,1,medium,0.0
 jarray2#use_array_v2,us13C15,NA,medium,0.0
-
 jarray4#create_2d_array_v2,us13A01,NA,medium,3.0
 jarray4#create_2d_array_v2,us13A02,NA,medium,3.0
 jarray4#create_2d_array_v2,us13A03,NA,medium,7.0
@@ -3394,7 +3316,6 @@ jarray4#create_2d_array_v2,us13C12,NA,medium,7.0
 jarray4#create_2d_array_v2,us13C13,NA,medium,3.0
 jarray4#create_2d_array_v2,us13C14,NA,medium,0.0
 jarray4#create_2d_array_v2,us13C15,NA,medium,0.0
-
 jbankaccount#arraylist1_v2,us13A01,NA,medium,3.0
 jbankaccount#arraylist1_v2,us13A02,NA,medium,3.0
 jbankaccount#arraylist1_v2,us13A03,NA,medium,7.0
@@ -3437,7 +3358,6 @@ jbankaccount#arraylist1_v2,us13C12,NA,medium,7.0
 jbankaccount#arraylist1_v2,us13C13,NA,medium,3.0
 jbankaccount#arraylist1_v2,us13C14,NA,medium,0.0
 jbankaccount#arraylist1_v2,us13C15,NA,medium,0.0
-
 jbankaccount#Bicycle_v2,us13A01,NA,medium,3.0
 jbankaccount#Bicycle_v2,us13A02,NA,medium,3.0
 jbankaccount#Bicycle_v2,us13A03,NA,medium,7.0
@@ -3480,7 +3400,6 @@ jbankaccount#Bicycle_v2,us13C12,3,medium,7.0
 jbankaccount#Bicycle_v2,us13C13,NA,medium,3.0
 jbankaccount#Bicycle_v2,us13C14,NA,medium,0.0
 jbankaccount#Bicycle_v2,us13C15,NA,medium,0.0
-
 jbankaccount#JavaTutorial_4_4_3,us13A01,NA,medium,3.0
 jbankaccount#JavaTutorial_4_4_3,us13A02,NA,medium,3.0
 jbankaccount#JavaTutorial_4_4_3,us13A03,NA,medium,7.0
@@ -3523,7 +3442,6 @@ jbankaccount#JavaTutorial_4_4_3,us13C12,NA,medium,7.0
 jbankaccount#JavaTutorial_4_4_3,us13C13,NA,medium,3.0
 jbankaccount#JavaTutorial_4_4_3,us13C14,NA,medium,0.0
 jbankaccount#JavaTutorial_4_4_3,us13C15,NA,medium,0.0
-
 jbankaccount#Point_v2,us13A01,NA,medium,3.0
 jbankaccount#Point_v2,us13A02,NA,medium,3.0
 jbankaccount#Point_v2,us13A03,NA,medium,7.0
@@ -3566,7 +3484,6 @@ jbankaccount#Point_v2,us13C12,2,medium,7.0
 jbankaccount#Point_v2,us13C13,NA,medium,3.0
 jbankaccount#Point_v2,us13C14,NA,medium,0.0
 jbankaccount#Point_v2,us13C15,NA,medium,0.0
-
 jbankaccount#Rectangle_v2,us13A01,NA,medium,3.0
 jbankaccount#Rectangle_v2,us13A02,NA,medium,3.0
 jbankaccount#Rectangle_v2,us13A03,NA,medium,7.0
@@ -3609,7 +3526,6 @@ jbankaccount#Rectangle_v2,us13C12,2,medium,7.0
 jbankaccount#Rectangle_v2,us13C13,NA,medium,3.0
 jbankaccount#Rectangle_v2,us13C14,NA,medium,0.0
 jbankaccount#Rectangle_v2,us13C15,NA,medium,0.0
-
 jbankaccount#variables1_v2,us13A01,NA,medium,3.0
 jbankaccount#variables1_v2,us13A02,NA,medium,3.0
 jbankaccount#variables1_v2,us13A03,NA,medium,7.0
@@ -3652,7 +3568,6 @@ jbankaccount#variables1_v2,us13C12,1,medium,7.0
 jbankaccount#variables1_v2,us13C13,NA,medium,3.0
 jbankaccount#variables1_v2,us13C14,NA,medium,0.0
 jbankaccount#variables1_v2,us13C15,NA,medium,0.0
-
 jba_ques#Bicycle_v2,us13A01,NA,medium,3.0
 jba_ques#Bicycle_v2,us13A02,NA,medium,3.0
 jba_ques#Bicycle_v2,us13A03,NA,medium,7.0
@@ -3695,7 +3610,6 @@ jba_ques#Bicycle_v2,us13C12,2,medium,7.0
 jba_ques#Bicycle_v2,us13C13,NA,medium,3.0
 jba_ques#Bicycle_v2,us13C14,NA,medium,0.0
 jba_ques#Bicycle_v2,us13C15,NA,medium,0.0
-
 jba_ques#Point_v2,us13A01,NA,medium,3.0
 jba_ques#Point_v2,us13A02,NA,medium,3.0
 jba_ques#Point_v2,us13A03,NA,medium,7.0
@@ -3738,7 +3652,6 @@ jba_ques#Point_v2,us13C12,NA,medium,7.0
 jba_ques#Point_v2,us13C13,NA,medium,3.0
 jba_ques#Point_v2,us13C14,NA,medium,0.0
 jba_ques#Point_v2,us13C15,NA,medium,0.0
-
 jba_ques#Rectangle_v2,us13A01,NA,medium,3.0
 jba_ques#Rectangle_v2,us13A02,NA,medium,3.0
 jba_ques#Rectangle_v2,us13A03,NA,medium,7.0
@@ -3781,7 +3694,6 @@ jba_ques#Rectangle_v2,us13C12,1,medium,7.0
 jba_ques#Rectangle_v2,us13C13,NA,medium,3.0
 jba_ques#Rectangle_v2,us13C14,NA,medium,0.0
 jba_ques#Rectangle_v2,us13C15,NA,medium,0.0
-
 jba_ques#variables1_v2,us13A01,NA,medium,3.0
 jba_ques#variables1_v2,us13A02,NA,medium,3.0
 jba_ques#variables1_v2,us13A03,NA,medium,7.0
@@ -3824,7 +3736,6 @@ jba_ques#variables1_v2,us13C12,1,medium,7.0
 jba_ques#variables1_v2,us13C13,NA,medium,3.0
 jba_ques#variables1_v2,us13C14,NA,medium,0.0
 jba_ques#variables1_v2,us13C15,NA,medium,0.0
-
 jclass1#Bicycle_v2,us13A01,NA,medium,3.0
 jclass1#Bicycle_v2,us13A02,NA,medium,3.0
 jclass1#Bicycle_v2,us13A03,NA,medium,7.0
@@ -3867,7 +3778,6 @@ jclass1#Bicycle_v2,us13C12,1,medium,7.0
 jclass1#Bicycle_v2,us13C13,NA,medium,3.0
 jclass1#Bicycle_v2,us13C14,NA,medium,0.0
 jclass1#Bicycle_v2,us13C15,NA,medium,0.0
-
 jclass1#Point_v2,us13A01,NA,medium,3.0
 jclass1#Point_v2,us13A02,NA,medium,3.0
 jclass1#Point_v2,us13A03,NA,medium,7.0
@@ -3910,7 +3820,6 @@ jclass1#Point_v2,us13C12,1,medium,7.0
 jclass1#Point_v2,us13C13,NA,medium,3.0
 jclass1#Point_v2,us13C14,NA,medium,0.0
 jclass1#Point_v2,us13C15,NA,medium,0.0
-
 jclass1#Rectangle_v2,us13A01,NA,medium,3.0
 jclass1#Rectangle_v2,us13A02,NA,medium,3.0
 jclass1#Rectangle_v2,us13A03,NA,medium,7.0
@@ -3953,7 +3862,6 @@ jclass1#Rectangle_v2,us13C12,1,medium,7.0
 jclass1#Rectangle_v2,us13C13,NA,medium,3.0
 jclass1#Rectangle_v2,us13C14,NA,medium,0.0
 jclass1#Rectangle_v2,us13C15,NA,medium,0.0
-
 jclass1#variables1_v2,us13A01,NA,medium,3.0
 jclass1#variables1_v2,us13A02,NA,medium,3.0
 jclass1#variables1_v2,us13A03,NA,medium,7.0
@@ -3996,7 +3904,6 @@ jclass1#variables1_v2,us13C12,1,medium,7.0
 jclass1#variables1_v2,us13C13,NA,medium,3.0
 jclass1#variables1_v2,us13C14,NA,medium,0.0
 jclass1#variables1_v2,us13C15,NA,medium,0.0
-
 jclasses_constructor#Bicycle_v2,us13A01,NA,medium,3.0
 jclasses_constructor#Bicycle_v2,us13A02,NA,medium,3.0
 jclasses_constructor#Bicycle_v2,us13A03,NA,medium,7.0
@@ -4039,7 +3946,6 @@ jclasses_constructor#Bicycle_v2,us13C12,2,medium,7.0
 jclasses_constructor#Bicycle_v2,us13C13,NA,medium,3.0
 jclasses_constructor#Bicycle_v2,us13C14,NA,medium,0.0
 jclasses_constructor#Bicycle_v2,us13C15,NA,medium,0.0
-
 jclasses_constructor#JavaTutorial_4_4_3,us13A01,NA,medium,3.0
 jclasses_constructor#JavaTutorial_4_4_3,us13A02,NA,medium,3.0
 jclasses_constructor#JavaTutorial_4_4_3,us13A03,NA,medium,7.0
@@ -4082,7 +3988,6 @@ jclasses_constructor#JavaTutorial_4_4_3,us13C12,NA,medium,7.0
 jclasses_constructor#JavaTutorial_4_4_3,us13C13,NA,medium,3.0
 jclasses_constructor#JavaTutorial_4_4_3,us13C14,NA,medium,0.0
 jclasses_constructor#JavaTutorial_4_4_3,us13C15,NA,medium,0.0
-
 jclasses_constructor#Point_v2,us13A01,NA,medium,3.0
 jclasses_constructor#Point_v2,us13A02,NA,medium,3.0
 jclasses_constructor#Point_v2,us13A03,NA,medium,7.0
@@ -4125,7 +4030,6 @@ jclasses_constructor#Point_v2,us13C12,1,medium,7.0
 jclasses_constructor#Point_v2,us13C13,NA,medium,3.0
 jclasses_constructor#Point_v2,us13C14,NA,medium,0.0
 jclasses_constructor#Point_v2,us13C15,NA,medium,0.0
-
 jclasses_constructor#Rectangle_v2,us13A01,NA,medium,3.0
 jclasses_constructor#Rectangle_v2,us13A02,NA,medium,3.0
 jclasses_constructor#Rectangle_v2,us13A03,NA,medium,7.0
@@ -4168,7 +4072,6 @@ jclasses_constructor#Rectangle_v2,us13C12,1,medium,7.0
 jclasses_constructor#Rectangle_v2,us13C13,NA,medium,3.0
 jclasses_constructor#Rectangle_v2,us13C14,NA,medium,0.0
 jclasses_constructor#Rectangle_v2,us13C15,NA,medium,0.0
-
 jclasses_constructor#variables1_v2,us13A01,NA,medium,3.0
 jclasses_constructor#variables1_v2,us13A02,NA,medium,3.0
 jclasses_constructor#variables1_v2,us13A03,NA,medium,7.0
@@ -4211,7 +4114,6 @@ jclasses_constructor#variables1_v2,us13C12,1,medium,7.0
 jclasses_constructor#variables1_v2,us13C13,NA,medium,3.0
 jclasses_constructor#variables1_v2,us13C14,NA,medium,0.0
 jclasses_constructor#variables1_v2,us13C15,NA,medium,0.0
-
 jfor2#JavaTutorial_4_6_9,us13A01,NA,easy,3.0
 jfor2#JavaTutorial_4_6_9,us13A02,NA,easy,3.0
 jfor2#JavaTutorial_4_6_9,us13A03,NA,easy,7.0
@@ -4254,7 +4156,6 @@ jfor2#JavaTutorial_4_6_9,us13C12,1,easy,7.0
 jfor2#JavaTutorial_4_6_9,us13C13,2,easy,3.0
 jfor2#JavaTutorial_4_6_9,us13C14,3,easy,0.0
 jfor2#JavaTutorial_4_6_9,us13C15,2,easy,0.0
-
 j2d_arrays1#JavaTutorial_4_7_5,us13A01,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_5,us13A02,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_5,us13A03,NA,medium,7.0
@@ -4297,7 +4198,6 @@ j2d_arrays1#JavaTutorial_4_7_5,us13C12,NA,medium,7.0
 j2d_arrays1#JavaTutorial_4_7_5,us13C13,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_5,us13C14,NA,medium,0.0
 j2d_arrays1#JavaTutorial_4_7_5,us13C15,NA,medium,0.0
-
 j2d_arrays1#JavaTutorial_4_7_8,us13A01,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_8,us13A02,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_8,us13A03,NA,medium,7.0
@@ -4340,7 +4240,6 @@ j2d_arrays1#JavaTutorial_4_7_8,us13C12,NA,medium,7.0
 j2d_arrays1#JavaTutorial_4_7_8,us13C13,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_8,us13C14,NA,medium,0.0
 j2d_arrays1#JavaTutorial_4_7_8,us13C15,NA,medium,0.0
-
 j2d_arrays1#use_array_v2,us13A01,NA,medium,3.0
 j2d_arrays1#use_array_v2,us13A02,NA,medium,3.0
 j2d_arrays1#use_array_v2,us13A03,NA,medium,7.0
@@ -4383,7 +4282,6 @@ j2d_arrays1#use_array_v2,us13C12,NA,medium,7.0
 j2d_arrays1#use_array_v2,us13C13,NA,medium,3.0
 j2d_arrays1#use_array_v2,us13C14,NA,medium,0.0
 j2d_arrays1#use_array_v2,us13C15,NA,medium,0.0
-
 j2d_arrays1#using_array_v2,us13A01,NA,medium,3.0
 j2d_arrays1#using_array_v2,us13A02,NA,medium,3.0
 j2d_arrays1#using_array_v2,us13A03,NA,medium,7.0
@@ -4426,7 +4324,6 @@ j2d_arrays1#using_array_v2,us13C12,NA,medium,7.0
 j2d_arrays1#using_array_v2,us13C13,NA,medium,3.0
 j2d_arrays1#using_array_v2,us13C14,1,medium,0.0
 j2d_arrays1#using_array_v2,us13C15,NA,medium,0.0
-
 jarray2#using_array_v2,us13A01,NA,medium,3.0
 jarray2#using_array_v2,us13A02,NA,medium,3.0
 jarray2#using_array_v2,us13A03,NA,medium,7.0
@@ -4469,7 +4366,6 @@ jarray2#using_array_v2,us13C12,NA,medium,7.0
 jarray2#using_array_v2,us13C13,NA,medium,3.0
 jarray2#using_array_v2,us13C14,3,medium,0.0
 jarray2#using_array_v2,us13C15,NA,medium,0.0
-
 jfor2#JavaTutorial_4_6_6,us13A01,NA,easy,3.0
 jfor2#JavaTutorial_4_6_6,us13A02,NA,easy,3.0
 jfor2#JavaTutorial_4_6_6,us13A03,NA,easy,7.0
@@ -4512,7 +4408,6 @@ jfor2#JavaTutorial_4_6_6,us13C12,NA,easy,7.0
 jfor2#JavaTutorial_4_6_6,us13C13,2,easy,3.0
 jfor2#JavaTutorial_4_6_6,us13C14,2,easy,0.0
 jfor2#JavaTutorial_4_6_6,us13C15,NA,easy,0.0
-
 jif_else5#OperatorExample_v2,us13A01,NA,medium,3.0
 jif_else5#OperatorExample_v2,us13A02,NA,medium,3.0
 jif_else5#OperatorExample_v2,us13A03,NA,medium,7.0
@@ -4555,7 +4450,6 @@ jif_else5#OperatorExample_v2,us13C12,NA,medium,7.0
 jif_else5#OperatorExample_v2,us13C13,NA,medium,3.0
 jif_else5#OperatorExample_v2,us13C14,3,medium,0.0
 jif_else5#OperatorExample_v2,us13C15,NA,medium,0.0
-
 jboolean_operators1#JavaTutorial_4_6_9,us13A01,NA,easy,3.0
 jboolean_operators1#JavaTutorial_4_6_9,us13A02,NA,easy,3.0
 jboolean_operators1#JavaTutorial_4_6_9,us13A03,NA,easy,7.0
@@ -4598,7 +4492,6 @@ jboolean_operators1#JavaTutorial_4_6_9,us13C12,NA,easy,7.0
 jboolean_operators1#JavaTutorial_4_6_9,us13C13,NA,easy,3.0
 jboolean_operators1#JavaTutorial_4_6_9,us13C14,NA,easy,0.0
 jboolean_operators1#JavaTutorial_4_6_9,us13C15,NA,easy,0.0
-
 jif_else5#arithmetic_v2,us13A01,NA,medium,3.0
 jif_else5#arithmetic_v2,us13A02,NA,medium,3.0
 jif_else5#arithmetic_v2,us13A03,NA,medium,7.0
@@ -4641,7 +4534,6 @@ jif_else5#arithmetic_v2,us13C12,NA,medium,7.0
 jif_else5#arithmetic_v2,us13C13,NA,medium,3.0
 jif_else5#arithmetic_v2,us13C14,NA,medium,0.0
 jif_else5#arithmetic_v2,us13C15,NA,medium,0.0
-
 jclass1#relational_operators_v2,us13A01,NA,medium,3.0
 jclass1#relational_operators_v2,us13A02,NA,medium,3.0
 jclass1#relational_operators_v2,us13A03,NA,medium,7.0
@@ -4684,7 +4576,6 @@ jclass1#relational_operators_v2,us13C12,NA,medium,7.0
 jclass1#relational_operators_v2,us13C13,NA,medium,3.0
 jclass1#relational_operators_v2,us13C14,NA,medium,0.0
 jclass1#relational_operators_v2,us13C15,NA,medium,0.0
-
 jclass1#variables2_v2,us13A01,NA,medium,3.0
 jclass1#variables2_v2,us13A02,NA,medium,3.0
 jclass1#variables2_v2,us13A03,NA,medium,7.0
@@ -4727,7 +4618,6 @@ jclass1#variables2_v2,us13C12,NA,medium,7.0
 jclass1#variables2_v2,us13C13,NA,medium,3.0
 jclass1#variables2_v2,us13C14,NA,medium,0.0
 jclass1#variables2_v2,us13C15,NA,medium,0.0
-
 jarray1#JavaTutorial_4_6_6,us13A01,NA,medium,3.0
 jarray1#JavaTutorial_4_6_6,us13A02,NA,medium,3.0
 jarray1#JavaTutorial_4_6_6,us13A03,NA,medium,7.0
@@ -4770,7 +4660,6 @@ jarray1#JavaTutorial_4_6_6,us13C12,NA,medium,7.0
 jarray1#JavaTutorial_4_6_6,us13C13,NA,medium,3.0
 jarray1#JavaTutorial_4_6_6,us13C14,NA,medium,0.0
 jarray1#JavaTutorial_4_6_6,us13C15,NA,medium,0.0
-
 j2d_arrays1#variables2_v2,us13A01,NA,medium,3.0
 j2d_arrays1#variables2_v2,us13A02,NA,medium,3.0
 j2d_arrays1#variables2_v2,us13A03,NA,medium,7.0
@@ -4813,7 +4702,6 @@ j2d_arrays1#variables2_v2,us13C12,NA,medium,7.0
 j2d_arrays1#variables2_v2,us13C13,NA,medium,3.0
 j2d_arrays1#variables2_v2,us13C14,NA,medium,0.0
 j2d_arrays1#variables2_v2,us13C15,NA,medium,0.0
-
 jarray4#JavaTutorial_4_6_6,us13A01,NA,medium,3.0
 jarray4#JavaTutorial_4_6_6,us13A02,NA,medium,3.0
 jarray4#JavaTutorial_4_6_6,us13A03,NA,medium,7.0
@@ -4856,7 +4744,6 @@ jarray4#JavaTutorial_4_6_6,us13C12,NA,medium,7.0
 jarray4#JavaTutorial_4_6_6,us13C13,NA,medium,3.0
 jarray4#JavaTutorial_4_6_6,us13C14,NA,medium,0.0
 jarray4#JavaTutorial_4_6_6,us13C15,NA,medium,0.0
-
 jarray4#JavaTutorial_4_6_7,us13A01,NA,medium,3.0
 jarray4#JavaTutorial_4_6_7,us13A02,NA,medium,3.0
 jarray4#JavaTutorial_4_6_7,us13A03,NA,medium,7.0
@@ -4899,7 +4786,6 @@ jarray4#JavaTutorial_4_6_7,us13C12,NA,medium,7.0
 jarray4#JavaTutorial_4_6_7,us13C13,NA,medium,3.0
 jarray4#JavaTutorial_4_6_7,us13C14,NA,medium,0.0
 jarray4#JavaTutorial_4_6_7,us13C15,NA,medium,0.0
-
 j2d_arrays1#JavaTutorial_4_7_6,us13A01,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_6,us13A02,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_6,us13A03,NA,medium,7.0
@@ -4942,7 +4828,6 @@ j2d_arrays1#JavaTutorial_4_7_6,us13C12,NA,medium,7.0
 j2d_arrays1#JavaTutorial_4_7_6,us13C13,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_6,us13C14,NA,medium,0.0
 j2d_arrays1#JavaTutorial_4_7_6,us13C15,NA,medium,0.0
-
 jarray1#create_2d_array_v2,us13A01,NA,medium,3.0
 jarray1#create_2d_array_v2,us13A02,NA,medium,3.0
 jarray1#create_2d_array_v2,us13A03,NA,medium,7.0
@@ -4985,7 +4870,6 @@ jarray1#create_2d_array_v2,us13C12,NA,medium,7.0
 jarray1#create_2d_array_v2,us13C13,NA,medium,3.0
 jarray1#create_2d_array_v2,us13C14,NA,medium,0.0
 jarray1#create_2d_array_v2,us13C15,NA,medium,0.0
-
 jbankaccount#inheritance_constructors_1,us13A01,NA,medium,3.0
 jbankaccount#inheritance_constructors_1,us13A02,NA,medium,3.0
 jbankaccount#inheritance_constructors_1,us13A03,NA,medium,7.0
@@ -5028,7 +4912,6 @@ jbankaccount#inheritance_constructors_1,us13C12,NA,medium,7.0
 jbankaccount#inheritance_constructors_1,us13C13,NA,medium,3.0
 jbankaccount#inheritance_constructors_1,us13C14,NA,medium,0.0
 jbankaccount#inheritance_constructors_1,us13C15,NA,medium,0.0
-
 jbankaccount#MathFunction_v2,us13A01,NA,medium,3.0
 jbankaccount#MathFunction_v2,us13A02,NA,medium,3.0
 jbankaccount#MathFunction_v2,us13A03,NA,medium,7.0
@@ -5071,7 +4954,6 @@ jbankaccount#MathFunction_v2,us13C12,NA,medium,7.0
 jbankaccount#MathFunction_v2,us13C13,NA,medium,3.0
 jbankaccount#MathFunction_v2,us13C14,NA,medium,0.0
 jbankaccount#MathFunction_v2,us13C15,NA,medium,0.0
-
 jbankaccount#TypeCasting_v2,us13A01,NA,medium,3.0
 jbankaccount#TypeCasting_v2,us13A02,NA,medium,3.0
 jbankaccount#TypeCasting_v2,us13A03,NA,medium,7.0
@@ -5114,7 +4996,6 @@ jbankaccount#TypeCasting_v2,us13C12,NA,medium,7.0
 jbankaccount#TypeCasting_v2,us13C13,NA,medium,3.0
 jbankaccount#TypeCasting_v2,us13C14,NA,medium,0.0
 jbankaccount#TypeCasting_v2,us13C15,NA,medium,0.0
-
 jclass1#TypeCasting_v2,us13A01,NA,medium,3.0
 jclass1#TypeCasting_v2,us13A02,NA,medium,3.0
 jclass1#TypeCasting_v2,us13A03,NA,medium,7.0
@@ -5157,7 +5038,6 @@ jclass1#TypeCasting_v2,us13C12,NA,medium,7.0
 jclass1#TypeCasting_v2,us13C13,NA,medium,3.0
 jclass1#TypeCasting_v2,us13C14,NA,medium,0.0
 jclass1#TypeCasting_v2,us13C15,NA,medium,0.0
-
 jarray2#create_2d_array_v2,us13A01,NA,medium,3.0
 jarray2#create_2d_array_v2,us13A02,NA,medium,3.0
 jarray2#create_2d_array_v2,us13A03,NA,medium,7.0
@@ -5200,7 +5080,6 @@ jarray2#create_2d_array_v2,us13C12,NA,medium,7.0
 jarray2#create_2d_array_v2,us13C13,NA,medium,3.0
 jarray2#create_2d_array_v2,us13C14,NA,medium,0.0
 jarray2#create_2d_array_v2,us13C15,NA,medium,0.0
-
 jarray2#inheritance_polymorphism_2,us13A01,NA,medium,3.0
 jarray2#inheritance_polymorphism_2,us13A02,NA,medium,3.0
 jarray2#inheritance_polymorphism_2,us13A03,NA,medium,7.0
@@ -5243,7 +5122,6 @@ jarray2#inheritance_polymorphism_2,us13C12,NA,medium,7.0
 jarray2#inheritance_polymorphism_2,us13C13,NA,medium,3.0
 jarray2#inheritance_polymorphism_2,us13C14,NA,medium,0.0
 jarray2#inheritance_polymorphism_2,us13C15,NA,medium,0.0
-
 jfor1#for1_v2,us13A01,NA,easy,3.0
 jfor1#for1_v2,us13A02,NA,easy,3.0
 jfor1#for1_v2,us13A03,NA,easy,7.0
@@ -5286,7 +5164,6 @@ jfor1#for1_v2,us13C12,3,easy,7.0
 jfor1#for1_v2,us13C13,3,easy,3.0
 jfor1#for1_v2,us13C14,3,easy,0.0
 jfor1#for1_v2,us13C15,2,easy,0.0
-
 jfor1#JavaTutorial_4_6_8,us13A01,NA,easy,3.0
 jfor1#JavaTutorial_4_6_8,us13A02,NA,easy,3.0
 jfor1#JavaTutorial_4_6_8,us13A03,NA,easy,7.0
@@ -5329,7 +5206,6 @@ jfor1#JavaTutorial_4_6_8,us13C12,NA,easy,7.0
 jfor1#JavaTutorial_4_6_8,us13C13,NA,easy,3.0
 jfor1#JavaTutorial_4_6_8,us13C14,NA,easy,0.0
 jfor1#JavaTutorial_4_6_8,us13C15,NA,easy,0.0
-
 jfor1#using_array_v2,us13A01,NA,easy,3.0
 jfor1#using_array_v2,us13A02,NA,easy,3.0
 jfor1#using_array_v2,us13A03,NA,easy,7.0
@@ -5372,7 +5248,6 @@ jfor1#using_array_v2,us13C12,NA,easy,7.0
 jfor1#using_array_v2,us13C13,0,easy,3.0
 jfor1#using_array_v2,us13C14,NA,easy,0.0
 jfor1#using_array_v2,us13C15,NA,easy,0.0
-
 jarray4#array_declaration_v2,us13A01,NA,medium,3.0
 jarray4#array_declaration_v2,us13A02,NA,medium,3.0
 jarray4#array_declaration_v2,us13A03,NA,medium,7.0
@@ -5415,7 +5290,6 @@ jarray4#array_declaration_v2,us13C12,NA,medium,7.0
 jarray4#array_declaration_v2,us13C13,NA,medium,3.0
 jarray4#array_declaration_v2,us13C14,NA,medium,0.0
 jarray4#array_declaration_v2,us13C15,NA,medium,0.0
-
 jdouble1#inheritance_casting_1,us13A01,NA,easy,3.0
 jdouble1#inheritance_casting_1,us13A02,NA,easy,3.0
 jdouble1#inheritance_casting_1,us13A03,NA,easy,7.0
@@ -5458,7 +5332,6 @@ jdouble1#inheritance_casting_1,us13C12,0,easy,7.0
 jdouble1#inheritance_casting_1,us13C13,0,easy,3.0
 jdouble1#inheritance_casting_1,us13C14,0,easy,0.0
 jdouble1#inheritance_casting_1,us13C15,2,easy,0.0
-
 jdouble1#variables1_v2,us13A01,NA,easy,3.0
 jdouble1#variables1_v2,us13A02,NA,easy,3.0
 jdouble1#variables1_v2,us13A03,NA,easy,7.0
@@ -5501,7 +5374,6 @@ jdouble1#variables1_v2,us13C12,1,easy,7.0
 jdouble1#variables1_v2,us13C13,2,easy,3.0
 jdouble1#variables1_v2,us13C14,1,easy,0.0
 jdouble1#variables1_v2,us13C15,3,easy,0.0
-
 jincrement#variables2_v2,us13A01,NA,easy,3.0
 jincrement#variables2_v2,us13A02,NA,easy,3.0
 jincrement#variables2_v2,us13A03,NA,easy,7.0
@@ -5544,7 +5416,6 @@ jincrement#variables2_v2,us13C12,1,easy,7.0
 jincrement#variables2_v2,us13C13,NA,easy,3.0
 jincrement#variables2_v2,us13C14,NA,easy,0.0
 jincrement#variables2_v2,us13C15,2,easy,0.0
-
 joperator1#arithmetic_v2,us13A01,NA,easy,3.0
 joperator1#arithmetic_v2,us13A02,NA,easy,3.0
 joperator1#arithmetic_v2,us13A03,NA,easy,7.0
@@ -5587,7 +5458,6 @@ joperator1#arithmetic_v2,us13C12,2,easy,7.0
 joperator1#arithmetic_v2,us13C13,2,easy,3.0
 joperator1#arithmetic_v2,us13C14,0,easy,0.0
 joperator1#arithmetic_v2,us13C15,3,easy,0.0
-
 jvariable1#OperatorExample_v2,us13A01,NA,easy,3.0
 jvariable1#OperatorExample_v2,us13A02,NA,easy,3.0
 jvariable1#OperatorExample_v2,us13A03,NA,easy,7.0
@@ -5630,7 +5500,6 @@ jvariable1#OperatorExample_v2,us13C12,1,easy,7.0
 jvariable1#OperatorExample_v2,us13C13,1,easy,3.0
 jvariable1#OperatorExample_v2,us13C14,0,easy,0.0
 jvariable1#OperatorExample_v2,us13C15,3,easy,0.0
-
 jwhile4#JavaTutorial_4_6_12,us13A01,NA,medium,3.0
 jwhile4#JavaTutorial_4_6_12,us13A02,NA,medium,3.0
 jwhile4#JavaTutorial_4_6_12,us13A03,NA,medium,7.0
@@ -5673,7 +5542,6 @@ jwhile4#JavaTutorial_4_6_12,us13C12,NA,medium,7.0
 jwhile4#JavaTutorial_4_6_12,us13C13,NA,medium,3.0
 jwhile4#JavaTutorial_4_6_12,us13C14,NA,medium,0.0
 jwhile4#JavaTutorial_4_6_12,us13C15,NA,medium,0.0
-
 jbankaccount#simple_inheritance_1,us13A01,NA,medium,3.0
 jbankaccount#simple_inheritance_1,us13A02,NA,medium,3.0
 jbankaccount#simple_inheritance_1,us13A03,NA,medium,7.0
@@ -5716,7 +5584,6 @@ jbankaccount#simple_inheritance_1,us13C12,NA,medium,7.0
 jbankaccount#simple_inheritance_1,us13C13,NA,medium,3.0
 jbankaccount#simple_inheritance_1,us13C14,NA,medium,0.0
 jbankaccount#simple_inheritance_1,us13C15,NA,medium,0.0
-
 jclass1#inheritance_constructors_1,us13A01,NA,medium,3.0
 jclass1#inheritance_constructors_1,us13A02,NA,medium,3.0
 jclass1#inheritance_constructors_1,us13A03,NA,medium,7.0
@@ -5759,7 +5626,6 @@ jclass1#inheritance_constructors_1,us13C12,NA,medium,7.0
 jclass1#inheritance_constructors_1,us13C13,NA,medium,3.0
 jclass1#inheritance_constructors_1,us13C14,NA,medium,0.0
 jclass1#inheritance_constructors_1,us13C15,NA,medium,0.0
-
 jclasses_constructor#inheritance_constructors_1,us13A01,NA,medium,3.0
 jclasses_constructor#inheritance_constructors_1,us13A02,NA,medium,3.0
 jclasses_constructor#inheritance_constructors_1,us13A03,NA,medium,7.0
@@ -5802,7 +5668,6 @@ jclasses_constructor#inheritance_constructors_1,us13C12,NA,medium,7.0
 jclasses_constructor#inheritance_constructors_1,us13C13,NA,medium,3.0
 jclasses_constructor#inheritance_constructors_1,us13C14,NA,medium,0.0
 jclasses_constructor#inheritance_constructors_1,us13C15,NA,medium,0.0
-
 jclasses_constructor#simple_inheritance_1,us13A01,NA,medium,3.0
 jclasses_constructor#simple_inheritance_1,us13A02,NA,medium,3.0
 jclasses_constructor#simple_inheritance_1,us13A03,NA,medium,7.0
@@ -5845,7 +5710,6 @@ jclasses_constructor#simple_inheritance_1,us13C12,NA,medium,7.0
 jclasses_constructor#simple_inheritance_1,us13C13,NA,medium,3.0
 jclasses_constructor#simple_inheritance_1,us13C14,NA,medium,0.0
 jclasses_constructor#simple_inheritance_1,us13C15,NA,medium,0.0
-
 jif_else5#decisions1_v2,us13A01,NA,medium,3.0
 jif_else5#decisions1_v2,us13A02,NA,medium,3.0
 jif_else5#decisions1_v2,us13A03,NA,medium,7.0
@@ -5888,7 +5752,6 @@ jif_else5#decisions1_v2,us13C12,NA,medium,7.0
 jif_else5#decisions1_v2,us13C13,NA,medium,3.0
 jif_else5#decisions1_v2,us13C14,NA,medium,0.0
 jif_else5#decisions1_v2,us13C15,NA,medium,0.0
-
 jwhile4#JavaTutorial_4_2_8,us13A01,NA,medium,3.0
 jwhile4#JavaTutorial_4_2_8,us13A02,NA,medium,3.0
 jwhile4#JavaTutorial_4_2_8,us13A03,NA,medium,7.0
@@ -5931,7 +5794,6 @@ jwhile4#JavaTutorial_4_2_8,us13C12,NA,medium,7.0
 jwhile4#JavaTutorial_4_2_8,us13C13,NA,medium,3.0
 jwhile4#JavaTutorial_4_2_8,us13C14,NA,medium,0.0
 jwhile4#JavaTutorial_4_2_8,us13C15,NA,medium,0.0
-
 j2d_arrays1#inheritance_polymorphism_2,us13A01,NA,medium,3.0
 j2d_arrays1#inheritance_polymorphism_2,us13A02,NA,medium,3.0
 j2d_arrays1#inheritance_polymorphism_2,us13A03,NA,medium,7.0
@@ -5974,7 +5836,6 @@ j2d_arrays1#inheritance_polymorphism_2,us13C12,NA,medium,7.0
 j2d_arrays1#inheritance_polymorphism_2,us13C13,NA,medium,3.0
 j2d_arrays1#inheritance_polymorphism_2,us13C14,NA,medium,0.0
 j2d_arrays1#inheritance_polymorphism_2,us13C15,NA,medium,0.0
-
 jarray1#inheritance_polymorphism_2,us13A01,NA,medium,3.0
 jarray1#inheritance_polymorphism_2,us13A02,NA,medium,3.0
 jarray1#inheritance_polymorphism_2,us13A03,NA,medium,7.0
@@ -6017,7 +5878,6 @@ jarray1#inheritance_polymorphism_2,us13C12,NA,medium,7.0
 jarray1#inheritance_polymorphism_2,us13C13,NA,medium,3.0
 jarray1#inheritance_polymorphism_2,us13C14,NA,medium,0.0
 jarray1#inheritance_polymorphism_2,us13C15,NA,medium,0.0
-
 jarray4#inheritance_polymorphism_2,us13A01,NA,medium,3.0
 jarray4#inheritance_polymorphism_2,us13A02,NA,medium,3.0
 jarray4#inheritance_polymorphism_2,us13A03,NA,medium,7.0
@@ -6060,7 +5920,6 @@ jarray4#inheritance_polymorphism_2,us13C12,NA,medium,7.0
 jarray4#inheritance_polymorphism_2,us13C13,NA,medium,3.0
 jarray4#inheritance_polymorphism_2,us13C14,NA,medium,0.0
 jarray4#inheritance_polymorphism_2,us13C15,NA,medium,0.0
-
 jarray4#use_2darray_v2,us13A01,NA,medium,3.0
 jarray4#use_2darray_v2,us13A02,NA,medium,3.0
 jarray4#use_2darray_v2,us13A03,NA,medium,7.0
@@ -6103,7 +5962,6 @@ jarray4#use_2darray_v2,us13C12,NA,medium,7.0
 jarray4#use_2darray_v2,us13C13,NA,medium,3.0
 jarray4#use_2darray_v2,us13C14,NA,medium,0.0
 jarray4#use_2darray_v2,us13C15,NA,medium,0.0
-
 jbankaccount#CreateObjectDemo_v2,us13A01,NA,medium,3.0
 jbankaccount#CreateObjectDemo_v2,us13A02,NA,medium,3.0
 jbankaccount#CreateObjectDemo_v2,us13A03,NA,medium,7.0
@@ -6146,7 +6004,6 @@ jbankaccount#CreateObjectDemo_v2,us13C12,NA,medium,7.0
 jbankaccount#CreateObjectDemo_v2,us13C13,NA,medium,3.0
 jbankaccount#CreateObjectDemo_v2,us13C14,NA,medium,0.0
 jbankaccount#CreateObjectDemo_v2,us13C15,NA,medium,0.0
-
 jba_ques#arraylist1_v2,us13A01,NA,medium,3.0
 jba_ques#arraylist1_v2,us13A02,NA,medium,3.0
 jba_ques#arraylist1_v2,us13A03,NA,medium,7.0
@@ -6189,7 +6046,6 @@ jba_ques#arraylist1_v2,us13C12,NA,medium,7.0
 jba_ques#arraylist1_v2,us13C13,NA,medium,3.0
 jba_ques#arraylist1_v2,us13C14,NA,medium,0.0
 jba_ques#arraylist1_v2,us13C15,NA,medium,0.0
-
 jdouble1#arithmetic_v2,us13A01,NA,easy,3.0
 jdouble1#arithmetic_v2,us13A02,NA,easy,3.0
 jdouble1#arithmetic_v2,us13A03,NA,easy,7.0
@@ -6232,7 +6088,6 @@ jdouble1#arithmetic_v2,us13C12,NA,easy,7.0
 jdouble1#arithmetic_v2,us13C13,NA,easy,3.0
 jdouble1#arithmetic_v2,us13C14,NA,easy,0.0
 jdouble1#arithmetic_v2,us13C15,NA,easy,0.0
-
 jdouble1#JavaTutorial_4_7_4,us13A01,NA,easy,3.0
 jdouble1#JavaTutorial_4_7_4,us13A02,NA,easy,3.0
 jdouble1#JavaTutorial_4_7_4,us13A03,NA,easy,7.0
@@ -6275,7 +6130,6 @@ jdouble1#JavaTutorial_4_7_4,us13C12,NA,easy,7.0
 jdouble1#JavaTutorial_4_7_4,us13C13,NA,easy,3.0
 jdouble1#JavaTutorial_4_7_4,us13C14,NA,easy,0.0
 jdouble1#JavaTutorial_4_7_4,us13C15,NA,easy,0.0
-
 jdouble1#MathFunction_v2,us13A01,NA,easy,3.0
 jdouble1#MathFunction_v2,us13A02,NA,easy,3.0
 jdouble1#MathFunction_v2,us13A03,NA,easy,7.0
@@ -6318,7 +6172,6 @@ jdouble1#MathFunction_v2,us13C12,NA,easy,7.0
 jdouble1#MathFunction_v2,us13C13,NA,easy,3.0
 jdouble1#MathFunction_v2,us13C14,NA,easy,0.0
 jdouble1#MathFunction_v2,us13C15,NA,easy,0.0
-
 jvariable1#Point_v2,us13A01,NA,easy,3.0
 jvariable1#Point_v2,us13A02,NA,easy,3.0
 jvariable1#Point_v2,us13A03,NA,easy,7.0
@@ -6361,7 +6214,6 @@ jvariable1#Point_v2,us13C12,NA,easy,7.0
 jvariable1#Point_v2,us13C13,1,easy,3.0
 jvariable1#Point_v2,us13C14,NA,easy,0.0
 jvariable1#Point_v2,us13C15,3,easy,0.0
-
 j2d_arrays1#JavaTutorial_4_7_2,us13A01,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_2,us13A02,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_2,us13A03,NA,medium,7.0
@@ -6404,7 +6256,6 @@ j2d_arrays1#JavaTutorial_4_7_2,us13C12,NA,medium,7.0
 j2d_arrays1#JavaTutorial_4_7_2,us13C13,NA,medium,3.0
 j2d_arrays1#JavaTutorial_4_7_2,us13C14,NA,medium,0.0
 j2d_arrays1#JavaTutorial_4_7_2,us13C15,NA,medium,0.0
-
 jba_ques#inheritance_casting_1,us13A01,NA,medium,3.0
 jba_ques#inheritance_casting_1,us13A02,NA,medium,3.0
 jba_ques#inheritance_casting_1,us13A03,NA,medium,7.0
@@ -6447,7 +6298,6 @@ jba_ques#inheritance_casting_1,us13C12,NA,medium,7.0
 jba_ques#inheritance_casting_1,us13C13,NA,medium,3.0
 jba_ques#inheritance_casting_1,us13C14,NA,medium,0.0
 jba_ques#inheritance_casting_1,us13C15,NA,medium,0.0
-
 jba_ques#inheritance_constructors_1,us13A01,NA,medium,3.0
 jba_ques#inheritance_constructors_1,us13A02,NA,medium,3.0
 jba_ques#inheritance_constructors_1,us13A03,NA,medium,7.0
@@ -6490,7 +6340,6 @@ jba_ques#inheritance_constructors_1,us13C12,NA,medium,7.0
 jba_ques#inheritance_constructors_1,us13C13,NA,medium,3.0
 jba_ques#inheritance_constructors_1,us13C14,NA,medium,0.0
 jba_ques#inheritance_constructors_1,us13C15,NA,medium,0.0
-
 jwhile4#do_while_v2,us13A01,NA,medium,3.0
 jwhile4#do_while_v2,us13A02,NA,medium,3.0
 jwhile4#do_while_v2,us13A03,NA,medium,7.0
@@ -6533,7 +6382,6 @@ jwhile4#do_while_v2,us13C12,NA,medium,7.0
 jwhile4#do_while_v2,us13C13,NA,medium,3.0
 jwhile4#do_while_v2,us13C14,NA,medium,0.0
 jwhile4#do_while_v2,us13C15,NA,medium,0.0
-
 jwhile4#JavaTutorial_4_2_5,us13A01,NA,medium,3.0
 jwhile4#JavaTutorial_4_2_5,us13A02,NA,medium,3.0
 jwhile4#JavaTutorial_4_2_5,us13A03,NA,medium,7.0
@@ -6576,7 +6424,6 @@ jwhile4#JavaTutorial_4_2_5,us13C12,NA,medium,7.0
 jwhile4#JavaTutorial_4_2_5,us13C13,2,medium,3.0
 jwhile4#JavaTutorial_4_2_5,us13C14,NA,medium,0.0
 jwhile4#JavaTutorial_4_2_5,us13C15,NA,medium,0.0
-
 jboolean_operators1#boolean_operators_v2,us13A01,NA,easy,3.0
 jboolean_operators1#boolean_operators_v2,us13A02,NA,easy,3.0
 jboolean_operators1#boolean_operators_v2,us13A03,NA,easy,7.0
@@ -6619,7 +6466,6 @@ jboolean_operators1#boolean_operators_v2,us13C12,NA,easy,7.0
 jboolean_operators1#boolean_operators_v2,us13C13,NA,easy,3.0
 jboolean_operators1#boolean_operators_v2,us13C14,NA,easy,0.0
 jboolean_operators1#boolean_operators_v2,us13C15,NA,easy,0.0
-
 jif_else1#comparison_operators_v2,us13A01,NA,easy,3.0
 jif_else1#comparison_operators_v2,us13A02,NA,easy,3.0
 jif_else1#comparison_operators_v2,us13A03,NA,easy,7.0
@@ -6662,7 +6508,6 @@ jif_else1#comparison_operators_v2,us13C12,NA,easy,7.0
 jif_else1#comparison_operators_v2,us13C13,NA,easy,3.0
 jif_else1#comparison_operators_v2,us13C14,NA,easy,0.0
 jif_else1#comparison_operators_v2,us13C15,NA,easy,0.0
-
 jif_else5#Decision_If_v2,us13A01,NA,medium,3.0
 jif_else5#Decision_If_v2,us13A02,NA,medium,3.0
 jif_else5#Decision_If_v2,us13A03,NA,medium,7.0
@@ -6705,7 +6550,6 @@ jif_else5#Decision_If_v2,us13C12,NA,medium,7.0
 jif_else5#Decision_If_v2,us13C13,NA,medium,3.0
 jif_else5#Decision_If_v2,us13C14,NA,medium,0.0
 jif_else5#Decision_If_v2,us13C15,NA,medium,0.0
-
 joperator1#JavaTutorial_4_2_8,us13A01,NA,easy,3.0
 joperator1#JavaTutorial_4_2_8,us13A02,NA,easy,3.0
 joperator1#JavaTutorial_4_2_8,us13A03,NA,easy,7.0
@@ -6748,7 +6592,6 @@ joperator1#JavaTutorial_4_2_8,us13C12,NA,easy,7.0
 joperator1#JavaTutorial_4_2_8,us13C13,1,easy,3.0
 joperator1#JavaTutorial_4_2_8,us13C14,NA,easy,0.0
 joperator1#JavaTutorial_4_2_8,us13C15,NA,easy,0.0
-
 jbankaccount#JavaTutorial_4_7_4,us13A01,NA,medium,3.0
 jbankaccount#JavaTutorial_4_7_4,us13A02,NA,medium,3.0
 jbankaccount#JavaTutorial_4_7_4,us13A03,NA,medium,7.0
@@ -6791,7 +6634,6 @@ jbankaccount#JavaTutorial_4_7_4,us13C12,NA,medium,7.0
 jbankaccount#JavaTutorial_4_7_4,us13C13,NA,medium,3.0
 jbankaccount#JavaTutorial_4_7_4,us13C14,NA,medium,0.0
 jbankaccount#JavaTutorial_4_7_4,us13C15,NA,medium,0.0
-
 jclasses_constructor#CreateObjectDemo_v2,us13A01,NA,medium,3.0
 jclasses_constructor#CreateObjectDemo_v2,us13A02,NA,medium,3.0
 jclasses_constructor#CreateObjectDemo_v2,us13A03,NA,medium,7.0
@@ -6834,7 +6676,6 @@ jclasses_constructor#CreateObjectDemo_v2,us13C12,3,medium,7.0
 jclasses_constructor#CreateObjectDemo_v2,us13C13,NA,medium,3.0
 jclasses_constructor#CreateObjectDemo_v2,us13C14,NA,medium,0.0
 jclasses_constructor#CreateObjectDemo_v2,us13C15,NA,medium,0.0
-
 jInheritance1#constant_v2,us13A01,NA,hard,3.0
 jInheritance1#constant_v2,us13A02,NA,hard,3.0
 jInheritance1#constant_v2,us13A03,NA,hard,7.0
@@ -6860,7 +6701,7 @@ jInheritance1#constant_v2,us13B10,1,hard,7.0
 jInheritance1#constant_v2,us13B11,2,hard,6.0
 jInheritance1#constant_v2,us13B12,NA,hard,0.0
 jInheritance1#constant_v2,us13B13,NA,hard,1.0
-jInheritance1#constant_v2,us13B14,3,hard,0.0
+jInheritance1#constant_v2,us13B14,NA,hard,0.0
 jInheritance1#constant_v2,us13B15,NA,hard,4.0
 jInheritance1#constant_v2,us13C01,NA,hard,2.0
 jInheritance1#constant_v2,us13C02,1,hard,5.0
@@ -6877,7 +6718,6 @@ jInheritance1#constant_v2,us13C12,NA,hard,7.0
 jInheritance1#constant_v2,us13C13,NA,hard,3.0
 jInheritance1#constant_v2,us13C14,NA,hard,0.0
 jInheritance1#constant_v2,us13C15,NA,hard,0.0
-
 jInheritance1#inheritance_casting_1,us13A01,NA,hard,3.0
 jInheritance1#inheritance_casting_1,us13A02,NA,hard,3.0
 jInheritance1#inheritance_casting_1,us13A03,NA,hard,7.0
@@ -6903,7 +6743,7 @@ jInheritance1#inheritance_casting_1,us13B10,2,hard,7.0
 jInheritance1#inheritance_casting_1,us13B11,1,hard,6.0
 jInheritance1#inheritance_casting_1,us13B12,NA,hard,0.0
 jInheritance1#inheritance_casting_1,us13B13,NA,hard,1.0
-jInheritance1#inheritance_casting_1,us13B14,0,hard,0.0
+jInheritance1#inheritance_casting_1,us13B14,NA,hard,0.0
 jInheritance1#inheritance_casting_1,us13B15,NA,hard,4.0
 jInheritance1#inheritance_casting_1,us13C01,NA,hard,2.0
 jInheritance1#inheritance_casting_1,us13C02,1,hard,5.0
@@ -6920,7 +6760,6 @@ jInheritance1#inheritance_casting_1,us13C12,NA,hard,7.0
 jInheritance1#inheritance_casting_1,us13C13,NA,hard,3.0
 jInheritance1#inheritance_casting_1,us13C14,NA,hard,0.0
 jInheritance1#inheritance_casting_1,us13C15,NA,hard,0.0
-
 jInheritance1#inheritance_constructors_1,us13A01,NA,hard,3.0
 jInheritance1#inheritance_constructors_1,us13A02,NA,hard,3.0
 jInheritance1#inheritance_constructors_1,us13A03,NA,hard,7.0
@@ -6946,7 +6785,7 @@ jInheritance1#inheritance_constructors_1,us13B10,2,hard,7.0
 jInheritance1#inheritance_constructors_1,us13B11,1,hard,6.0
 jInheritance1#inheritance_constructors_1,us13B12,NA,hard,0.0
 jInheritance1#inheritance_constructors_1,us13B13,NA,hard,1.0
-jInheritance1#inheritance_constructors_1,us13B14,2,hard,0.0
+jInheritance1#inheritance_constructors_1,us13B14,NA,hard,0.0
 jInheritance1#inheritance_constructors_1,us13B15,NA,hard,4.0
 jInheritance1#inheritance_constructors_1,us13C01,NA,hard,2.0
 jInheritance1#inheritance_constructors_1,us13C02,1,hard,5.0
@@ -6963,7 +6802,6 @@ jInheritance1#inheritance_constructors_1,us13C12,NA,hard,7.0
 jInheritance1#inheritance_constructors_1,us13C13,NA,hard,3.0
 jInheritance1#inheritance_constructors_1,us13C14,NA,hard,0.0
 jInheritance1#inheritance_constructors_1,us13C15,NA,hard,0.0
-
 jInheritance1#override_v2,us13A01,NA,hard,3.0
 jInheritance1#override_v2,us13A02,NA,hard,3.0
 jInheritance1#override_v2,us13A03,NA,hard,7.0
@@ -7006,7 +6844,6 @@ jInheritance1#override_v2,us13C12,NA,hard,7.0
 jInheritance1#override_v2,us13C13,NA,hard,3.0
 jInheritance1#override_v2,us13C14,NA,hard,0.0
 jInheritance1#override_v2,us13C15,NA,hard,0.0
-
 jInheritance1#Point_v2,us13A01,NA,hard,3.0
 jInheritance1#Point_v2,us13A02,NA,hard,3.0
 jInheritance1#Point_v2,us13A03,NA,hard,7.0
@@ -7049,7 +6886,6 @@ jInheritance1#Point_v2,us13C12,NA,hard,7.0
 jInheritance1#Point_v2,us13C13,NA,hard,3.0
 jInheritance1#Point_v2,us13C14,NA,hard,0.0
 jInheritance1#Point_v2,us13C15,NA,hard,0.0
-
 jInheritance1#Rectangle_v2,us13A01,NA,hard,3.0
 jInheritance1#Rectangle_v2,us13A02,NA,hard,3.0
 jInheritance1#Rectangle_v2,us13A03,NA,hard,7.0
@@ -7092,7 +6928,6 @@ jInheritance1#Rectangle_v2,us13C12,NA,hard,7.0
 jInheritance1#Rectangle_v2,us13C13,NA,hard,3.0
 jInheritance1#Rectangle_v2,us13C14,NA,hard,0.0
 jInheritance1#Rectangle_v2,us13C15,NA,hard,0.0
-
 jInheritance2#constant_v2,us13A01,NA,hard,3.0
 jInheritance2#constant_v2,us13A02,NA,hard,3.0
 jInheritance2#constant_v2,us13A03,NA,hard,7.0
@@ -7135,7 +6970,6 @@ jInheritance2#constant_v2,us13C12,NA,hard,7.0
 jInheritance2#constant_v2,us13C13,NA,hard,3.0
 jInheritance2#constant_v2,us13C14,NA,hard,0.0
 jInheritance2#constant_v2,us13C15,NA,hard,0.0
-
 jInheritance2#inheritance_casting_1,us13A01,NA,hard,3.0
 jInheritance2#inheritance_casting_1,us13A02,NA,hard,3.0
 jInheritance2#inheritance_casting_1,us13A03,NA,hard,7.0
@@ -7178,7 +7012,6 @@ jInheritance2#inheritance_casting_1,us13C12,NA,hard,7.0
 jInheritance2#inheritance_casting_1,us13C13,NA,hard,3.0
 jInheritance2#inheritance_casting_1,us13C14,NA,hard,0.0
 jInheritance2#inheritance_casting_1,us13C15,NA,hard,0.0
-
 jInheritance2#inheritance_constructors_1,us13A01,NA,hard,3.0
 jInheritance2#inheritance_constructors_1,us13A02,NA,hard,3.0
 jInheritance2#inheritance_constructors_1,us13A03,NA,hard,7.0
@@ -7221,7 +7054,6 @@ jInheritance2#inheritance_constructors_1,us13C12,NA,hard,7.0
 jInheritance2#inheritance_constructors_1,us13C13,NA,hard,3.0
 jInheritance2#inheritance_constructors_1,us13C14,NA,hard,0.0
 jInheritance2#inheritance_constructors_1,us13C15,NA,hard,0.0
-
 jInheritance2#override_v2,us13A01,NA,hard,3.0
 jInheritance2#override_v2,us13A02,NA,hard,3.0
 jInheritance2#override_v2,us13A03,NA,hard,7.0
@@ -7264,7 +7096,6 @@ jInheritance2#override_v2,us13C12,NA,hard,7.0
 jInheritance2#override_v2,us13C13,NA,hard,3.0
 jInheritance2#override_v2,us13C14,NA,hard,0.0
 jInheritance2#override_v2,us13C15,NA,hard,0.0
-
 jInheritance2#Rectangle_v2,us13A01,NA,hard,3.0
 jInheritance2#Rectangle_v2,us13A02,NA,hard,3.0
 jInheritance2#Rectangle_v2,us13A03,NA,hard,7.0
@@ -7307,7 +7138,6 @@ jInheritance2#Rectangle_v2,us13C12,NA,hard,7.0
 jInheritance2#Rectangle_v2,us13C13,NA,hard,3.0
 jInheritance2#Rectangle_v2,us13C14,NA,hard,0.0
 jInheritance2#Rectangle_v2,us13C15,NA,hard,0.0
-
 jInheritance3#inheritance_constructors_1,us13A01,NA,hard,3.0
 jInheritance3#inheritance_constructors_1,us13A02,NA,hard,3.0
 jInheritance3#inheritance_constructors_1,us13A03,NA,hard,7.0
@@ -7350,7 +7180,6 @@ jInheritance3#inheritance_constructors_1,us13C12,NA,hard,7.0
 jInheritance3#inheritance_constructors_1,us13C13,NA,hard,3.0
 jInheritance3#inheritance_constructors_1,us13C14,NA,hard,0.0
 jInheritance3#inheritance_constructors_1,us13C15,NA,hard,0.0
-
 jInheritance3#override_v2,us13A01,NA,hard,3.0
 jInheritance3#override_v2,us13A02,NA,hard,3.0
 jInheritance3#override_v2,us13A03,NA,hard,7.0
@@ -7393,7 +7222,6 @@ jInheritance3#override_v2,us13C12,NA,hard,7.0
 jInheritance3#override_v2,us13C13,NA,hard,3.0
 jInheritance3#override_v2,us13C14,NA,hard,0.0
 jInheritance3#override_v2,us13C15,NA,hard,0.0
-
 jInheritance3#Point_v2,us13A01,NA,hard,3.0
 jInheritance3#Point_v2,us13A02,NA,hard,3.0
 jInheritance3#Point_v2,us13A03,NA,hard,7.0
@@ -7436,7 +7264,6 @@ jInheritance3#Point_v2,us13C12,NA,hard,7.0
 jInheritance3#Point_v2,us13C13,NA,hard,3.0
 jInheritance3#Point_v2,us13C14,NA,hard,0.0
 jInheritance3#Point_v2,us13C15,NA,hard,0.0
-
 jInheritance3#Rectangle_v2,us13A01,NA,hard,3.0
 jInheritance3#Rectangle_v2,us13A02,NA,hard,3.0
 jInheritance3#Rectangle_v2,us13A03,NA,hard,7.0
@@ -7479,7 +7306,6 @@ jInheritance3#Rectangle_v2,us13C12,NA,hard,7.0
 jInheritance3#Rectangle_v2,us13C13,NA,hard,3.0
 jInheritance3#Rectangle_v2,us13C14,NA,hard,0.0
 jInheritance3#Rectangle_v2,us13C15,NA,hard,0.0
-
 jInheritance4#inheritance_casting_1,us13A01,NA,hard,3.0
 jInheritance4#inheritance_casting_1,us13A02,NA,hard,3.0
 jInheritance4#inheritance_casting_1,us13A03,NA,hard,7.0
@@ -7522,7 +7348,6 @@ jInheritance4#inheritance_casting_1,us13C12,NA,hard,7.0
 jInheritance4#inheritance_casting_1,us13C13,NA,hard,3.0
 jInheritance4#inheritance_casting_1,us13C14,NA,hard,0.0
 jInheritance4#inheritance_casting_1,us13C15,NA,hard,0.0
-
 jInheritance4#inheritance_constructors_1,us13A01,NA,hard,3.0
 jInheritance4#inheritance_constructors_1,us13A02,NA,hard,3.0
 jInheritance4#inheritance_constructors_1,us13A03,NA,hard,7.0
@@ -7565,7 +7390,6 @@ jInheritance4#inheritance_constructors_1,us13C12,NA,hard,7.0
 jInheritance4#inheritance_constructors_1,us13C13,NA,hard,3.0
 jInheritance4#inheritance_constructors_1,us13C14,NA,hard,0.0
 jInheritance4#inheritance_constructors_1,us13C15,NA,hard,0.0
-
 jInheritance4#JavaTutorial_4_7_4,us13A01,NA,hard,3.0
 jInheritance4#JavaTutorial_4_7_4,us13A02,NA,hard,3.0
 jInheritance4#JavaTutorial_4_7_4,us13A03,NA,hard,7.0
@@ -7608,7 +7432,6 @@ jInheritance4#JavaTutorial_4_7_4,us13C12,NA,hard,7.0
 jInheritance4#JavaTutorial_4_7_4,us13C13,NA,hard,3.0
 jInheritance4#JavaTutorial_4_7_4,us13C14,NA,hard,0.0
 jInheritance4#JavaTutorial_4_7_4,us13C15,NA,hard,0.0
-
 jInheritance4#override_v2,us13A01,NA,hard,3.0
 jInheritance4#override_v2,us13A02,NA,hard,3.0
 jInheritance4#override_v2,us13A03,NA,hard,7.0
@@ -7651,7 +7474,6 @@ jInheritance4#override_v2,us13C12,NA,hard,7.0
 jInheritance4#override_v2,us13C13,NA,hard,3.0
 jInheritance4#override_v2,us13C14,NA,hard,0.0
 jInheritance4#override_v2,us13C15,NA,hard,0.0
-
 jInheritance4#Rectangle_v2,us13A01,NA,hard,3.0
 jInheritance4#Rectangle_v2,us13A02,NA,hard,3.0
 jInheritance4#Rectangle_v2,us13A03,NA,hard,7.0
@@ -7694,7 +7516,6 @@ jInheritance4#Rectangle_v2,us13C12,NA,hard,7.0
 jInheritance4#Rectangle_v2,us13C13,NA,hard,3.0
 jInheritance4#Rectangle_v2,us13C14,NA,hard,0.0
 jInheritance4#Rectangle_v2,us13C15,NA,hard,0.0
-
 jInheritance3#inheritance_casting_1,us13A01,NA,hard,3.0
 jInheritance3#inheritance_casting_1,us13A02,NA,hard,3.0
 jInheritance3#inheritance_casting_1,us13A03,NA,hard,7.0
@@ -7737,7 +7558,6 @@ jInheritance3#inheritance_casting_1,us13C12,NA,hard,7.0
 jInheritance3#inheritance_casting_1,us13C13,NA,hard,3.0
 jInheritance3#inheritance_casting_1,us13C14,NA,hard,0.0
 jInheritance3#inheritance_casting_1,us13C15,NA,hard,0.0
-
 jInheritance4#arraylist2_v2,us13A01,NA,hard,3.0
 jInheritance4#arraylist2_v2,us13A02,NA,hard,3.0
 jInheritance4#arraylist2_v2,us13A03,NA,hard,7.0
@@ -7780,7 +7600,6 @@ jInheritance4#arraylist2_v2,us13C12,NA,hard,7.0
 jInheritance4#arraylist2_v2,us13C13,NA,hard,3.0
 jInheritance4#arraylist2_v2,us13C14,NA,hard,0.0
 jInheritance4#arraylist2_v2,us13C15,NA,hard,0.0
-
 jInheritance4#constant_v2,us13A01,NA,hard,3.0
 jInheritance4#constant_v2,us13A02,NA,hard,3.0
 jInheritance4#constant_v2,us13A03,NA,hard,7.0
@@ -7823,7 +7642,6 @@ jInheritance4#constant_v2,us13C12,NA,hard,7.0
 jInheritance4#constant_v2,us13C13,NA,hard,3.0
 jInheritance4#constant_v2,us13C14,NA,hard,0.0
 jInheritance4#constant_v2,us13C15,NA,hard,0.0
-
 jInheritance4#CreateObjectDemo_v2,us13A01,NA,hard,3.0
 jInheritance4#CreateObjectDemo_v2,us13A02,NA,hard,3.0
 jInheritance4#CreateObjectDemo_v2,us13A03,NA,hard,7.0
@@ -7866,7 +7684,6 @@ jInheritance4#CreateObjectDemo_v2,us13C12,NA,hard,7.0
 jInheritance4#CreateObjectDemo_v2,us13C13,NA,hard,3.0
 jInheritance4#CreateObjectDemo_v2,us13C14,NA,hard,0.0
 jInheritance4#CreateObjectDemo_v2,us13C15,NA,hard,0.0
-
 jif_else1#ifelse2_v2,us13A01,NA,easy,3.0
 jif_else1#ifelse2_v2,us13A02,NA,easy,3.0
 jif_else1#ifelse2_v2,us13A03,NA,easy,7.0
@@ -7909,7 +7726,6 @@ jif_else1#ifelse2_v2,us13C12,NA,easy,7.0
 jif_else1#ifelse2_v2,us13C13,NA,easy,3.0
 jif_else1#ifelse2_v2,us13C14,NA,easy,0.0
 jif_else1#ifelse2_v2,us13C15,NA,easy,0.0
-
 jvariable1#JavaTutorial_4_7_5,us13A01,NA,easy,3.0
 jvariable1#JavaTutorial_4_7_5,us13A02,NA,easy,3.0
 jvariable1#JavaTutorial_4_7_5,us13A03,NA,easy,7.0
@@ -7952,7 +7768,6 @@ jvariable1#JavaTutorial_4_7_5,us13C12,NA,easy,7.0
 jvariable1#JavaTutorial_4_7_5,us13C13,NA,easy,3.0
 jvariable1#JavaTutorial_4_7_5,us13C14,NA,easy,0.0
 jvariable1#JavaTutorial_4_7_5,us13C15,NA,easy,0.0
-
 jvariable1#JavaTutorial_4_7_7,us13A01,NA,easy,3.0
 jvariable1#JavaTutorial_4_7_7,us13A02,NA,easy,3.0
 jvariable1#JavaTutorial_4_7_7,us13A03,NA,easy,7.0
@@ -7995,7 +7810,6 @@ jvariable1#JavaTutorial_4_7_7,us13C12,NA,easy,7.0
 jvariable1#JavaTutorial_4_7_7,us13C13,NA,easy,3.0
 jvariable1#JavaTutorial_4_7_7,us13C14,NA,easy,0.0
 jvariable1#JavaTutorial_4_7_7,us13C15,NA,easy,0.0
-
 jvariable1#JavaTutorial_4_7_8,us13A01,NA,easy,3.0
 jvariable1#JavaTutorial_4_7_8,us13A02,NA,easy,3.0
 jvariable1#JavaTutorial_4_7_8,us13A03,NA,easy,7.0
@@ -8038,7 +7852,6 @@ jvariable1#JavaTutorial_4_7_8,us13C12,NA,easy,7.0
 jvariable1#JavaTutorial_4_7_8,us13C13,NA,easy,3.0
 jvariable1#JavaTutorial_4_7_8,us13C14,NA,easy,0.0
 jvariable1#JavaTutorial_4_7_8,us13C15,NA,easy,0.0
-
 jwhile3#JavaTutorial_4_4_2,us13A01,NA,medium,3.0
 jwhile3#JavaTutorial_4_4_2,us13A02,NA,medium,3.0
 jwhile3#JavaTutorial_4_4_2,us13A03,NA,medium,7.0
@@ -8081,7 +7894,6 @@ jwhile3#JavaTutorial_4_4_2,us13C12,NA,medium,7.0
 jwhile3#JavaTutorial_4_4_2,us13C13,NA,medium,3.0
 jwhile3#JavaTutorial_4_4_2,us13C14,NA,medium,0.0
 jwhile3#JavaTutorial_4_4_2,us13C15,NA,medium,0.0
-
 jfor1#use_array_v2,us13A01,NA,easy,3.0
 jfor1#use_array_v2,us13A02,NA,easy,3.0
 jfor1#use_array_v2,us13A03,NA,easy,7.0
@@ -8124,7 +7936,6 @@ jfor1#use_array_v2,us13C12,NA,easy,7.0
 jfor1#use_array_v2,us13C13,NA,easy,3.0
 jfor1#use_array_v2,us13C14,NA,easy,0.0
 jfor1#use_array_v2,us13C15,NA,easy,0.0
-
 jfor2#use_array_v2,us13A01,NA,easy,3.0
 jfor2#use_array_v2,us13A02,NA,easy,3.0
 jfor2#use_array_v2,us13A03,NA,easy,7.0
@@ -8167,7 +7978,6 @@ jfor2#use_array_v2,us13C12,NA,easy,7.0
 jfor2#use_array_v2,us13C13,NA,easy,3.0
 jfor2#use_array_v2,us13C14,NA,easy,0.0
 jfor2#use_array_v2,us13C15,NA,easy,0.0
-
 jfor2#using_array_v2,us13A01,NA,easy,3.0
 jfor2#using_array_v2,us13A02,NA,easy,3.0
 jfor2#using_array_v2,us13A03,NA,easy,7.0
@@ -8210,7 +8020,6 @@ jfor2#using_array_v2,us13C12,NA,easy,7.0
 jfor2#using_array_v2,us13C13,NA,easy,3.0
 jfor2#using_array_v2,us13C14,NA,easy,0.0
 jfor2#using_array_v2,us13C15,NA,easy,0.0
-
 joperator1#create_2d_array_v2,us13A01,NA,easy,3.0
 joperator1#create_2d_array_v2,us13A02,NA,easy,3.0
 joperator1#create_2d_array_v2,us13A03,NA,easy,7.0
@@ -8253,7 +8062,6 @@ joperator1#create_2d_array_v2,us13C12,NA,easy,7.0
 joperator1#create_2d_array_v2,us13C13,NA,easy,3.0
 joperator1#create_2d_array_v2,us13C14,NA,easy,0.0
 joperator1#create_2d_array_v2,us13C15,NA,easy,0.0
-
 joperator1#JavaTutorial_4_2_2,us13A01,NA,easy,3.0
 joperator1#JavaTutorial_4_2_2,us13A02,NA,easy,3.0
 joperator1#JavaTutorial_4_2_2,us13A03,NA,easy,7.0
@@ -8296,7 +8104,6 @@ joperator1#JavaTutorial_4_2_2,us13C12,NA,easy,7.0
 joperator1#JavaTutorial_4_2_2,us13C13,NA,easy,3.0
 joperator1#JavaTutorial_4_2_2,us13C14,NA,easy,0.0
 joperator1#JavaTutorial_4_2_2,us13C15,NA,easy,0.0
-
 jarray1#JavaTutorial_4_7_2,us13A01,NA,medium,3.0
 jarray1#JavaTutorial_4_7_2,us13A02,NA,medium,3.0
 jarray1#JavaTutorial_4_7_2,us13A03,NA,medium,7.0
@@ -8339,7 +8146,6 @@ jarray1#JavaTutorial_4_7_2,us13C12,NA,medium,7.0
 jarray1#JavaTutorial_4_7_2,us13C13,NA,medium,3.0
 jarray1#JavaTutorial_4_7_2,us13C14,NA,medium,0.0
 jarray1#JavaTutorial_4_7_2,us13C15,NA,medium,0.0
-
 jarray1#use_array_v2,us13A01,NA,medium,3.0
 jarray1#use_array_v2,us13A02,NA,medium,3.0
 jarray1#use_array_v2,us13A03,NA,medium,7.0
@@ -8382,7 +8188,6 @@ jarray1#use_array_v2,us13C12,NA,medium,7.0
 jarray1#use_array_v2,us13C13,NA,medium,3.0
 jarray1#use_array_v2,us13C14,NA,medium,0.0
 jarray1#use_array_v2,us13C15,NA,medium,0.0
-
 jarray4#JavaTutorial_4_7_6,us13A01,NA,medium,3.0
 jarray4#JavaTutorial_4_7_6,us13A02,NA,medium,3.0
 jarray4#JavaTutorial_4_7_6,us13A03,NA,medium,7.0
@@ -8425,7 +8230,6 @@ jarray4#JavaTutorial_4_7_6,us13C12,NA,medium,7.0
 jarray4#JavaTutorial_4_7_6,us13C13,NA,medium,3.0
 jarray4#JavaTutorial_4_7_6,us13C14,NA,medium,0.0
 jarray4#JavaTutorial_4_7_6,us13C15,NA,medium,0.0
-
 jboolean_operators1#comparison_operators_v2,us13A01,NA,easy,3.0
 jboolean_operators1#comparison_operators_v2,us13A02,NA,easy,3.0
 jboolean_operators1#comparison_operators_v2,us13A03,NA,easy,7.0
@@ -8468,7 +8272,6 @@ jboolean_operators1#comparison_operators_v2,us13C12,NA,easy,7.0
 jboolean_operators1#comparison_operators_v2,us13C13,2,easy,3.0
 jboolean_operators1#comparison_operators_v2,us13C14,NA,easy,0.0
 jboolean_operators1#comparison_operators_v2,us13C15,NA,easy,0.0
-
 jwhile3#do_while_v2,us13A01,NA,medium,3.0
 jwhile3#do_while_v2,us13A02,NA,medium,3.0
 jwhile3#do_while_v2,us13A03,NA,medium,7.0
@@ -8511,7 +8314,6 @@ jwhile3#do_while_v2,us13C12,NA,medium,7.0
 jwhile3#do_while_v2,us13C13,NA,medium,3.0
 jwhile3#do_while_v2,us13C14,NA,medium,0.0
 jwhile3#do_while_v2,us13C15,NA,medium,0.0
-
 jwhile3#for1_v2,us13A01,NA,medium,3.0
 jwhile3#for1_v2,us13A02,NA,medium,3.0
 jwhile3#for1_v2,us13A03,NA,medium,7.0
@@ -8554,7 +8356,6 @@ jwhile3#for1_v2,us13C12,NA,medium,7.0
 jwhile3#for1_v2,us13C13,NA,medium,3.0
 jwhile3#for1_v2,us13C14,NA,medium,0.0
 jwhile3#for1_v2,us13C15,NA,medium,0.0
-
 jInheritance1#boolean_operators_v2,us13A01,NA,hard,3.0
 jInheritance1#boolean_operators_v2,us13A02,NA,hard,3.0
 jInheritance1#boolean_operators_v2,us13A03,NA,hard,7.0
@@ -8597,7 +8398,6 @@ jInheritance1#boolean_operators_v2,us13C12,NA,hard,7.0
 jInheritance1#boolean_operators_v2,us13C13,NA,hard,3.0
 jInheritance1#boolean_operators_v2,us13C14,NA,hard,0.0
 jInheritance1#boolean_operators_v2,us13C15,NA,hard,0.0
-
 jInheritance1#CreateObjectDemo_v2,us13A01,NA,hard,3.0
 jInheritance1#CreateObjectDemo_v2,us13A02,NA,hard,3.0
 jInheritance1#CreateObjectDemo_v2,us13A03,NA,hard,7.0
@@ -8640,7 +8440,6 @@ jInheritance1#CreateObjectDemo_v2,us13C12,NA,hard,7.0
 jInheritance1#CreateObjectDemo_v2,us13C13,NA,hard,3.0
 jInheritance1#CreateObjectDemo_v2,us13C14,NA,hard,0.0
 jInheritance1#CreateObjectDemo_v2,us13C15,NA,hard,0.0
-
 jInheritance3#CreateObjectDemo_v2,us13A01,NA,hard,3.0
 jInheritance3#CreateObjectDemo_v2,us13A02,NA,hard,3.0
 jInheritance3#CreateObjectDemo_v2,us13A03,NA,hard,7.0
@@ -8683,7 +8482,6 @@ jInheritance3#CreateObjectDemo_v2,us13C12,NA,hard,7.0
 jInheritance3#CreateObjectDemo_v2,us13C13,NA,hard,3.0
 jInheritance3#CreateObjectDemo_v2,us13C14,NA,hard,0.0
 jInheritance3#CreateObjectDemo_v2,us13C15,NA,hard,0.0
-
 jInheritance3#poly_v2,us13A01,NA,hard,3.0
 jInheritance3#poly_v2,us13A02,NA,hard,3.0
 jInheritance3#poly_v2,us13A03,NA,hard,7.0
@@ -8726,7 +8524,6 @@ jInheritance3#poly_v2,us13C12,NA,hard,7.0
 jInheritance3#poly_v2,us13C13,NA,hard,3.0
 jInheritance3#poly_v2,us13C14,NA,hard,0.0
 jInheritance3#poly_v2,us13C15,NA,hard,0.0
-
 jboolean_var#comparison_operators_v2,us13A01,NA,easy,3.0
 jboolean_var#comparison_operators_v2,us13A02,NA,easy,3.0
 jboolean_var#comparison_operators_v2,us13A03,NA,easy,7.0
@@ -8769,7 +8566,6 @@ jboolean_var#comparison_operators_v2,us13C12,NA,easy,7.0
 jboolean_var#comparison_operators_v2,us13C13,NA,easy,3.0
 jboolean_var#comparison_operators_v2,us13C14,NA,easy,0.0
 jboolean_var#comparison_operators_v2,us13C15,NA,easy,0.0
-
 jboolean_var#relational_operators_v2,us13A01,NA,easy,3.0
 jboolean_var#relational_operators_v2,us13A02,NA,easy,3.0
 jboolean_var#relational_operators_v2,us13A03,NA,easy,7.0
@@ -8812,7 +8608,6 @@ jboolean_var#relational_operators_v2,us13C12,NA,easy,7.0
 jboolean_var#relational_operators_v2,us13C13,NA,easy,3.0
 jboolean_var#relational_operators_v2,us13C14,1,easy,0.0
 jboolean_var#relational_operators_v2,us13C15,NA,easy,0.0
-
 jba_ques#CreateObjectDemo_v2,us13A01,NA,medium,3.0
 jba_ques#CreateObjectDemo_v2,us13A02,NA,medium,3.0
 jba_ques#CreateObjectDemo_v2,us13A03,NA,medium,7.0
@@ -8855,7 +8650,6 @@ jba_ques#CreateObjectDemo_v2,us13C12,NA,medium,7.0
 jba_ques#CreateObjectDemo_v2,us13C13,NA,medium,3.0
 jba_ques#CreateObjectDemo_v2,us13C14,NA,medium,0.0
 jba_ques#CreateObjectDemo_v2,us13C15,NA,medium,0.0
-
 jba_ques#JavaTutorial_4_4_3,us13A01,NA,medium,3.0
 jba_ques#JavaTutorial_4_4_3,us13A02,NA,medium,3.0
 jba_ques#JavaTutorial_4_4_3,us13A03,NA,medium,7.0
@@ -8898,7 +8692,6 @@ jba_ques#JavaTutorial_4_4_3,us13C12,NA,medium,7.0
 jba_ques#JavaTutorial_4_4_3,us13C13,NA,medium,3.0
 jba_ques#JavaTutorial_4_4_3,us13C14,NA,medium,0.0
 jba_ques#JavaTutorial_4_4_3,us13C15,NA,medium,0.0
-
 jInheritance2#CreateObjectDemo_v2,us13A01,NA,hard,3.0
 jInheritance2#CreateObjectDemo_v2,us13A02,NA,hard,3.0
 jInheritance2#CreateObjectDemo_v2,us13A03,NA,hard,7.0
@@ -8941,7 +8734,6 @@ jInheritance2#CreateObjectDemo_v2,us13C12,NA,hard,7.0
 jInheritance2#CreateObjectDemo_v2,us13C13,NA,hard,3.0
 jInheritance2#CreateObjectDemo_v2,us13C14,NA,hard,0.0
 jInheritance2#CreateObjectDemo_v2,us13C15,NA,hard,0.0
-
 jInheritance2#poly_v2,us13A01,NA,hard,3.0
 jInheritance2#poly_v2,us13A02,NA,hard,3.0
 jInheritance2#poly_v2,us13A03,NA,hard,7.0
@@ -8984,7 +8776,6 @@ jInheritance2#poly_v2,us13C12,NA,hard,7.0
 jInheritance2#poly_v2,us13C13,NA,hard,3.0
 jInheritance2#poly_v2,us13C14,NA,hard,0.0
 jInheritance2#poly_v2,us13C15,NA,hard,0.0
-
 jInheritance4#Point_v2,us13A01,NA,hard,3.0
 jInheritance4#Point_v2,us13A02,NA,hard,3.0
 jInheritance4#Point_v2,us13A03,NA,hard,7.0
@@ -9027,7 +8818,6 @@ jInheritance4#Point_v2,us13C12,NA,hard,7.0
 jInheritance4#Point_v2,us13C13,NA,hard,3.0
 jInheritance4#Point_v2,us13C14,NA,hard,0.0
 jInheritance4#Point_v2,us13C15,NA,hard,0.0
-
 jboolean_var#JavaTutorial_4_2_2,us13A01,NA,easy,3.0
 jboolean_var#JavaTutorial_4_2_2,us13A02,NA,easy,3.0
 jboolean_var#JavaTutorial_4_2_2,us13A03,NA,easy,7.0
@@ -9070,7 +8860,6 @@ jboolean_var#JavaTutorial_4_2_2,us13C12,NA,easy,7.0
 jboolean_var#JavaTutorial_4_2_2,us13C13,NA,easy,3.0
 jboolean_var#JavaTutorial_4_2_2,us13C14,NA,easy,0.0
 jboolean_var#JavaTutorial_4_2_2,us13C15,NA,easy,0.0
-
 jboolean_var#PrimitiveDataTypes_v2,us13A01,NA,easy,3.0
 jboolean_var#PrimitiveDataTypes_v2,us13A02,NA,easy,3.0
 jboolean_var#PrimitiveDataTypes_v2,us13A03,NA,easy,7.0
@@ -9113,7 +8902,6 @@ jboolean_var#PrimitiveDataTypes_v2,us13C12,NA,easy,7.0
 jboolean_var#PrimitiveDataTypes_v2,us13C13,NA,easy,3.0
 jboolean_var#PrimitiveDataTypes_v2,us13C14,NA,easy,0.0
 jboolean_var#PrimitiveDataTypes_v2,us13C15,NA,easy,0.0
-
 jfor1#JavaTutorial_4_6_14,us13A01,NA,easy,3.0
 jfor1#JavaTutorial_4_6_14,us13A02,NA,easy,3.0
 jfor1#JavaTutorial_4_6_14,us13A03,NA,easy,7.0
@@ -9156,7 +8944,6 @@ jfor1#JavaTutorial_4_6_14,us13C12,NA,easy,7.0
 jfor1#JavaTutorial_4_6_14,us13C13,NA,easy,3.0
 jfor1#JavaTutorial_4_6_14,us13C14,NA,easy,0.0
 jfor1#JavaTutorial_4_6_14,us13C15,NA,easy,0.0
-
 jincrement#JavaTutorial_4_2_2,us13A01,NA,easy,3.0
 jincrement#JavaTutorial_4_2_2,us13A02,NA,easy,3.0
 jincrement#JavaTutorial_4_2_2,us13A03,NA,easy,7.0
@@ -9199,7 +8986,6 @@ jincrement#JavaTutorial_4_2_2,us13C12,NA,easy,7.0
 jincrement#JavaTutorial_4_2_2,us13C13,NA,easy,3.0
 jincrement#JavaTutorial_4_2_2,us13C14,NA,easy,0.0
 jincrement#JavaTutorial_4_2_2,us13C15,NA,easy,0.0
-
 jincrement#Point_v2,us13A01,NA,easy,3.0
 jincrement#Point_v2,us13A02,NA,easy,3.0
 jincrement#Point_v2,us13A03,NA,easy,7.0
@@ -9242,7 +9028,6 @@ jincrement#Point_v2,us13C12,NA,easy,7.0
 jincrement#Point_v2,us13C13,NA,easy,3.0
 jincrement#Point_v2,us13C14,NA,easy,0.0
 jincrement#Point_v2,us13C15,NA,easy,0.0
-
 jvariable1#JavaTutorial_4_1_3,us13A01,NA,easy,3.0
 jvariable1#JavaTutorial_4_1_3,us13A02,NA,easy,3.0
 jvariable1#JavaTutorial_4_1_3,us13A03,NA,easy,7.0
@@ -9285,7 +9070,6 @@ jvariable1#JavaTutorial_4_1_3,us13C12,NA,easy,7.0
 jvariable1#JavaTutorial_4_1_3,us13C13,NA,easy,3.0
 jvariable1#JavaTutorial_4_1_3,us13C14,NA,easy,0.0
 jvariable1#JavaTutorial_4_1_3,us13C15,NA,easy,0.0
-
 jvariable1#JavaTutorial_4_2_2,us13A01,NA,easy,3.0
 jvariable1#JavaTutorial_4_2_2,us13A02,NA,easy,3.0
 jvariable1#JavaTutorial_4_2_2,us13A03,NA,easy,7.0
@@ -9328,4 +9112,3 @@ jvariable1#JavaTutorial_4_2_2,us13C12,NA,easy,7.0
 jvariable1#JavaTutorial_4_2_2,us13C13,NA,easy,3.0
 jvariable1#JavaTutorial_4_2_2,us13C14,NA,easy,0.0
 jvariable1#JavaTutorial_4_2_2,us13C15,NA,easy,0.0
-

@@ -9,7 +9,7 @@ jInheritance4#Point_v2,1
 jarray2#JavaTutorial_4_7_5,19
 j2d_arrays1#relational_operators_v2,2
 jdouble1#variables1_v2,18
-jInheritance1#inheritance_constructors_1,6
+jInheritance1#inheritance_constructors_1,5
 jwhile4#JavaTutorial_4_4_3,22
 jba_ques#inheritance_casting_1,2
 jvariable1#OperatorExample_v2,18
@@ -75,7 +75,7 @@ jInheritance4#override_v2,4
 jInheritance2#CreateObjectDemo_v2,1
 jvariable1#JavaTutorial_4_2_2,1
 jwhile4#OperatorExample_v2,29
-jInheritance1#constant_v2,6
+jInheritance1#constant_v2,5
 jba_ques#Point_v2,10
 jbankaccount#CreateObjectDemo_v2,2
 jba_ques#CreateObjectDemo_v2,1
@@ -154,7 +154,7 @@ jarray1#JavaTutorial_4_2_2,2
 joperator1#Decision_If_v2,25
 jarray1#create_2d_array_v2,7
 jvariable1#JavaTutorial_4_7_5,1
-jInheritance1#inheritance_casting_1,6
+jInheritance1#inheritance_casting_1,5
 jInheritance2#Rectangle_v2,4
 jvariable1#JavaTutorial_4_7_8,1
 j2d_arrays1#JavaTutorial_4_1_5,4

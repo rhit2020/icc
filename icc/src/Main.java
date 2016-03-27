@@ -202,13 +202,12 @@ public class Main {
 					bw.write(item+","+userList.get(u)+","+(ratingMap.get(userList.get(u)).get(item)==null?"NA":""+ratingMap.get(userList.get(u)).get(item))+","+difficultyMap.get(pair[0])+","+pretestMap.get(userList.get(u)));
 					bw.newLine();
 				}
-				bw.newLine();
 			    bw.flush();
 			}
+
 		} catch (IOException e) {
 			e.printStackTrace();
-		}
-		
+		}	
 	}
 	
 	private static void readRatingMap() {
